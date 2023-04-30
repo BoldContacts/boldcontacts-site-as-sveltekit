@@ -1,38 +1,27 @@
-# create-svelte
+# BoldContacts site as SvelteKit
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+BoldContacts is a mobile app for accessible calling.
 
-## Creating a project
+Website: <https://BoldContacts.org>
 
-If you're seeing this, you've probably already done this step. Congrats!
+Repositories: <https://github.com/BoldContacts>
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+Apple App Store: <https://apps.apple.com/us/app/boldcontacts/id6443335501>
 
-# create a new project in my-app
-npm create svelte@latest my-app
+
+## Technical
+
+Starter:
+
+```sh
+pnpm create @svelte-add/kit@latest boldcontacts -- --with typescript+eslint+prettier+playwright+vitest+tailwindcss+postcss
+cd boldcontacts
+pnpm run dev -- --open
+git init && git add -A && git commit -m "Init"
 ```
 
-## Developing
+Host site on Netlify::<br>
+<https://www.netlify.com>
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+Edit DNS on AWS Route 53:<br>
+<https://aws.amazong.com>

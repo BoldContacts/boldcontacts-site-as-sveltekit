@@ -1,3 +1,7 @@
+<div class="max-w-2xl m-auto">
+
+<img src="/assets/pexels-andrea-piacquadio-3791664@2400x1200.jpg" alt="People using BoldContacts on a phone">
+
 <h1>BoldContacts</h1>
 
 <p><a href="https://apps.apple.com/us/app/boldcontacts/id6443335501">BoldContacts on Apple App Store is now free!</a></p>
@@ -7,32 +11,35 @@
 
 <h2>What is BoldContacts?</h2>
 
-<p>BoldContacts™ is a mobile app to help you browse your contacts and connect with them.</p>
+<p>BoldContacts™ is a mobile app to help you browse your contacts and connect with them. BoldContacts is especially good for people who experience vision disabilities, or cognitive disabilities, or motor disabilities.</p>
 
-<p>BoldContacts is especially good for people who may be experiencing vision disabilities, or cognitive disabilities, or motor disabilities. The app displays each contact with a large photo (if available), large font, and large buttons.</p>
- 
-<p>BoldContacts started because our family members have recently been diagnosed with Alzheimer's disease and Parkinson's disease, and are now unable to use the typical contacts app. The app may also help people with Multiple Sclerosis (MS), Amyotrophic Lateral Sclerosis (ALS), and Muscular Distrophy (MD), and more.</p>
+<p>The app displays each contact with a big photo, big font, and big buttons.</p>
 
-<p>BoldContacts helps our family keep in touch, and helps caretakers connect with us. We hope it may help you and your loved ones. We welcome constructive feedback. We are actively seeking donations and grants to work on accessibility software full time. Contact Joel Parker Henderson at <a href="mailto:joel@joelparkerhenderson.com">joel@joelparkerhenderson.com</a></p>
+<img src="/assets/screenshot.png" alt="Screenshot gallery of BoldContacts on an iPhone">
 
-
-<h2>How it works</h2>
-
-<p>The app shows each contact's name, a big photo if available, and big buttons.</p>
-
-<ul>
-
-<li>A phone button means "contact this person now". This button connects you by using your choice of video, or phone, or email, or message, or custom URL. A caregiver can customize this by using the default iOS Contacts app.</li>
-
-<li>A left-arrow button means "show the previous contact".</li>
+<p>A phone button means "contact this person now". This button connects you by using your choice of video, or phone, or email, or message, or custom URL. A caregiver can customize this by using the Apple iOS Contacts app.</p>
     
-<li>A right-arrow button means "show the next contact".</li>
+<p>A left-arrow button means "show the previous contact".</p>
+        
+<p>A right-arrow button means "show the next contact".</p>
 
-</ul>
 
-<p>The buttons are purposefully far apart, to help people see them better, and to help people be able to tap each button separately.</p>
+<h2>Localization and Internationalization</h2>
 
-<p>The app saves brief anonymous usage data in your "Documents" directory in a file named "BoldContacts.txt". The data is for diagnostics and disability assistance.</p>
+<p>The app provides localization and internationalization for many worldwide languages. We welcome help improving the phrasings and translations, and adding more languages and examples.</p>
+
+<img src="/assets/pexels-nataliya-vaitkevich-7235805@2400x1200.jpg" alt="World globe held in hands">
+
+<p>The app includes Afrikaans, Amharic, Arabic, Armenian, Assamese, Azerbaijani, Bangla, Basque, Belarusian, Bosnian, Bulgarian, Catalan, Chinese, Corsican, CroationC, Danish, Dutch, English, Esperanto, Finnish, French, Galician, German, Greek, Gujarati, Hawaiian, Hebrew, Hindi, Hmong, Icelandic, Igbo, Indonesian, Irish, Italian, Japanese, Javanese, Kannada, Khmer, Korean, Lao, Latin, Lingala, Lithuanian, Malay, Maori, Marathi, Meiteilon, Nepali, Norwegian, Persian, Polish, Portugese, Punjabi, Quechua, Russian, Samoan, Sanskit, Scots Gaelic, Shona, Slovenian, Swahili, Swedish, Tamil, Telegu, Thai, Turkish, Turkmen, Ukranian, Urdu, Uyghur, Uzbek, Vietnamese, Welsh, Xhosa, Yiddish, Yoruba, Zulu.</p>
+
+
+<h2>Why is BoldContacts free?</h2>
+
+<p>BoldContacts is free because we want to help as many people as possible. BoldContacts exists because our family members have Alzheimer's Disease and Parkinson's Disease. BoldContacts is built to help them keep in touch with family, friends, and caregivers.</p>
+
+<img src="/assets/pexels-kampus-production-7551617@2400x1200.jpg" alt="Happy family uses a tablet computer">
+
+<p>We are actively seeking donations and grants to enable our work on accessibility software full time. Contact Joel Parker Henderson at <a href="mailto:joel@joelparkerhenderson.com">joel@joelparkerhenderson.com</a>.</p>
 
 
 <h2>Setup</h2>
@@ -55,28 +62,20 @@
 
 </ol>
 
-<h2>Localization and Internationalization</h2>
-
-<p>The app has localization and internationalization for many worldwide languages, including Afrikaans, Amharic, Arabic, Armenian, Assamese, Azerbaijani, Bangla, Basque, Belarusian, Bosnian, Bulgarian, Catalan, Chinese, Corsican, CroationC, Danish, Dutch, English, Esperanto, Finnish, French, Galician, German, Greek, Gujarati, Hawaiian, Hebrew, Hindi, Hmong, Icelandic, Igbo, Indonesian, Irish, Italian, Japanese, Javanese, Kannada, Khmer, Korean, Lao, Latin, Lingala, Lithuanian, Malay, Maori, Marathi, Meiteilon, Nepali, Norwegian, Persian, Polish, Portugese, Punjabi, Quechua, Russian, Samoan, Sanskit, Scots Gaelic, Shona, Slovenian, Swahili, Swedish, Tamil, Telegu, Thai, Turkish, Turkmen, Ukranian, Urdu, Uyghur, Uzbek, Vietnamese, Welsh, Xhosa, Yiddish, Yoruba, Zulu.</p>
-
-<p>We welcome help with localization and internationalization, improving the phrasings and translations, and adding more languages and examples.</p>
+<p>The app saves brief anonymous usage data in your "Documents" directory in a file named "BoldContacts.txt". The data is for diagnostics and disability assistance.</p>
 
 
 <h2>Help Wanted</h2>
 
 <p>Contact the author at <a href="mailto:joel@joelparkerhenderson.com">joel@joelparkerhenderson.com</a>.</p>
 
-<ul>
+<p>Are you experiencing disabilities? How can we help you?</p>
 
-<li>Are you experiencing disabilities? We welcome your feedback.</li>
+<p>Are you caring for someone who is experiencing disabilities? How can we support you?</p>
 
-<li>Are you caring for someone who is experiencing disabilities? We welcome your feedback.</li>
+<p>Are you a patron or fundraiser? We're seeking help with donations, grants, and fundraising.</p>
 
-<li>Are you a patron or fundraiser? We're seeking help with donations, grants, and fundraising.</li>
-
-<li>Are you a developer or programmer? We're seeking software technologist to build using iOS Swift and Android Kotlin?</li>
-
-</ul>
+<p>Are you a mobile app programmer? We're seeking to grow our apps with iOS Swift and Android Kotlin.</p>
 
 
 <h2>Goals</h2>
@@ -101,6 +100,22 @@
 
 
 <h2>For more information</h2>
+
+<p>Introductions</p>
+
+<ul>
+
+    <li><a href="/alzheimers-disease/">Alzheimer's disease</a></li>
+
+    <li><a href="/amyotrophic-lateral-sclerosis/">Amyotrophic lateral sclerosis</a></li>
+
+    <li><a href="/multiple-sclerosis/">Multiple sclerosis</a></li>
+
+    <li><a href="/muscular-dystrophy/">Muscular dystrophy</a></li>
+
+    <li><a href="/parkinsons-disease/">Parkinson's disease</a></li>
+
+</ul>
 
 <p>Wikipedia links:</p>
 
@@ -152,3 +167,5 @@
 <p>Copyright © 2022-2023 by Joel Parker Henderson.</p>
 
 <p>The purpose of the trademark and copyright is to help protect the app and its users from identity theft, or fraud, or hacking.</p>
+
+</div>

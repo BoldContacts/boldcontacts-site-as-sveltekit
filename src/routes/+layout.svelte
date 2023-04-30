@@ -1,8 +1,8 @@
 <script>import "../app.postcss";</script>
 
-<div class="max-w-xl m-auto">
+<div class="max-w-6xl m-auto">
     <header></header>  
-    <main class="m-8">
+    <main class="mx-8">
         <slot></slot>
     </main>
 </div>
