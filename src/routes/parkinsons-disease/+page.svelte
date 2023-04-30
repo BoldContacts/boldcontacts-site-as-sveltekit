@@ -24,9 +24,9 @@
 
 </span>
 
-<h2>What can I ask a doctor about Parkinson's Disease?</h2>
+<h2>What questions should I ask my doctor about Parkinson's Disease?</h2>
 
-<span data-chatgpt-prompt="What can I ask a doctor about Parkinson's Disease?">
+<span data-chatgpt-prompt="What questions should I ask my doctor about Parkinson's Disease?">
 
     <p>If you or someone you know is experiencing symptoms of Parkinson's Disease, here are some questions you may want to ask a doctor:</p>
 

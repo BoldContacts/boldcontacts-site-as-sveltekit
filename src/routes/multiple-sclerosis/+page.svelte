@@ -28,9 +28,9 @@
 
 </span>
 
-<h2>What can I ask a doctor about multiple sclerosis?</h2>
+<h2>What questions should I ask my doctor about multiple sclerosis?</h2>
 
-<span data-chatgpt-prompt="What can I ask a doctor about multiple sclerosis?">
+<span data-chatgpt-prompt="What questions should I ask my doctor about multiple sclerosis?">
 
     <p>If you suspect that you or a loved one may have multiple sclerosis (MS), it's important to seek medical attention from a neurologist or other healthcare provider. Here are some questions you might consider asking:</p>
 

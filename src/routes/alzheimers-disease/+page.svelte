@@ -24,9 +24,9 @@
 
 </span>
 
-<h2>What can I ask a doctor about Alzheimer's Disease?</h2>
+<h2>What questions should I ask my doctor about Alzheimer's Disease?</h2>
 
-<span data-chatgpt-prompt="What do I ask my doctor about Alzheimer's Disease?">
+<span data-chatgpt-prompt="What questions should I ask my doctor about Alzheimer's Disease?">
 
     <p>If you or someone you know is experiencing symptoms of Alzheimer's disease, here are some questions you may want to ask a doctor:</p>
 

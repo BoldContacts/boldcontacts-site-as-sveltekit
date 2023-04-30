@@ -24,9 +24,9 @@
 
 </span>
 
-<h2>What can I ask a doctor about amyotrophic lateral sclerosis?</h2>
+<h2>What questions should I ask my doctor about amyotrophic lateral sclerosis?</h2>
 
-<span data-chatgpt-prompt="What can I ask a doctor about amyotrophic lateral sclerosis?">
+<span data-chatgpt-prompt="What questions should I ask my doctor about amyotrophic lateral sclerosis?">
 
     <p>If you or someone you know is experiencing symptoms of Amyotrophic lateral sclerosis (ALS), here are some questions you may want to ask a doctor:</p>
 
