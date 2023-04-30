@@ -21,6 +21,7 @@
     <p>Research into Parkinson's Disease is ongoing, with a focus on developing new treatments and preventative strategies. Some potential treatments being explored include gene therapy, stem cell therapy, and neuroprotective therapies.</p>
     
     <p>If you or a loved one are experiencing symptoms of Parkinson's Disease, it's important to seek medical attention and support as early as possible. Treatment and support can help manage symptoms and improve quality of life for those affected by this condition.</p>
+
 </span>
 
 <h2>What can I ask a doctor about Parkinson's Disease?</h2>

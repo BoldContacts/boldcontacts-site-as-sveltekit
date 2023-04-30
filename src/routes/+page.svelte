@@ -1,6 +1,6 @@
 <div class="max-w-2xl m-auto">
 
-<img src="/assets/pexels-andrea-piacquadio-3791664@2400x1200.jpg" alt="People using BoldContacts on a phone">
+<img src="/assets/pexels-andrea-piacquadio-3791664@2400x1200.jpg" alt="People using BoldContacts on a phone" loading="lazy">
 
 <h1>BoldContacts</h1>
 
@@ -15,7 +15,7 @@
 
 <p>The app displays each contact with a big photo, big font, and big buttons.</p>
 
-<img src="/assets/screenshot.png" alt="Screenshot gallery of BoldContacts on an iPhone">
+<img src="/assets/screenshot.png" alt="Screenshot gallery of BoldContacts on an iPhone" loading="lazy">
 
 <p>A phone button means "contact this person now". This button connects you by using your choice of video, or phone, or email, or message, or custom URL. A caregiver can customize this by using the Apple iOS Contacts app.</p>
     
@@ -28,7 +28,7 @@
 
 <p>The app provides localization and internationalization for many worldwide languages. We welcome help improving the phrasings and translations, and adding more languages and examples.</p>
 
-<img src="/assets/pexels-nataliya-vaitkevich-7235805@2400x1200.jpg" alt="World globe held in hands">
+<img src="/assets/pexels-nataliya-vaitkevich-7235805@2400x1200.jpg" alt="World globe held in hands" loading="lazy">
 
 <p>The app includes Afrikaans, Amharic, Arabic, Armenian, Assamese, Azerbaijani, Bangla, Basque, Belarusian, Bosnian, Bulgarian, Catalan, Chinese, Corsican, CroationC, Danish, Dutch, English, Esperanto, Finnish, French, Galician, German, Greek, Gujarati, Hawaiian, Hebrew, Hindi, Hmong, Icelandic, Igbo, Indonesian, Irish, Italian, Japanese, Javanese, Kannada, Khmer, Korean, Lao, Latin, Lingala, Lithuanian, Malay, Maori, Marathi, Meiteilon, Nepali, Norwegian, Persian, Polish, Portugese, Punjabi, Quechua, Russian, Samoan, Sanskit, Scots Gaelic, Shona, Slovenian, Swahili, Swedish, Tamil, Telegu, Thai, Turkish, Turkmen, Ukranian, Urdu, Uyghur, Uzbek, Vietnamese, Welsh, Xhosa, Yiddish, Yoruba, Zulu.</p>
 
