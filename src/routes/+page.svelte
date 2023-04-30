@@ -101,7 +101,7 @@
 
 <h2>For more information</h2>
 
-<p>Introductions</p>
+<p>Introductions:</p>
 
 <ul>
 
@@ -116,6 +116,8 @@
     <li><a href="/parkinsons-disease/">Parkinson's disease</a></li>
 
 </ul>
+
+<!--
 
 <p>Wikipedia links:</p>
 
@@ -132,6 +134,8 @@
     <li><a href="https://wikipedia.org/wiki/Parkinson's_disease">Parkinson's disease</a></li>
 
 </ul>
+
+-->
 
 <p>Organization links:</p>
 
