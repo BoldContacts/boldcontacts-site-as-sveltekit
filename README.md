@@ -11,13 +11,18 @@ Apple App Store: <https://apps.apple.com/us/app/boldcontacts/id6443335501>
 
 ## Technical
 
-Starter:
+Create:
 
 ```sh
-pnpm create @svelte-add/kit@latest boldcontacts -- --with typescript+eslint+prettier+playwright+vitest+tailwindcss+postcss
+pnpm create @svelte-add/kit@latest boldcontacts -- \
+--with eslint+playwright+postcss+prettier+tailwindcss+typescript+vitest \
+--postcss-autoprefixer \
+--tailwindcss-daisyui \
+--tailwindcss-form \
+--tailwindcss-typography
 cd boldcontacts
+git init && git add -A && git commit -m "Run pnpm create @svelte-add/kit@latest"
 pnpm run dev -- --open
-git init && git add -A && git commit -m "Init"
 ```
 
 Host site on Netlify::<br>

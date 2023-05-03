@@ -1,3 +1,5 @@
+<div class="max-w-2xl m-auto">
+
 <h1>Alzheimer's Disease</h1>
 
 <span data-chatgpt-prompt="Summarize Alzheimer's Disease (ELI5))">
@@ -51,3 +53,5 @@
     <p>Remember, it's important to be open and honest with your doctor about any concerns or questions you may have about Alzheimer's disease. Your doctor can provide you with the information and support you need to manage the disease and maintain the best quality of life possible.</p>
 
 </span>
+
+</div>

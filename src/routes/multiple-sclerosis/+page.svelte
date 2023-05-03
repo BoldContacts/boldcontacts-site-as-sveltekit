@@ -1,3 +1,5 @@
+<div class="max-w-2xl m-auto">
+
 <h1>Multiple sclerosis</h1>
 
 <span data-chatgpt-prompt="Summarize multiple sclerosis (ELI5)">
@@ -65,3 +67,5 @@
     <p>Remember, it's important to be open and honest with your doctor about any concerns or questions you may have. Your doctor can provide you with the information and support you need to manage the disease and maintain the best quality of life possible.</p>
 
 </span>
+
+</div>

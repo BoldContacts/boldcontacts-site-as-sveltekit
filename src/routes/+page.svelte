@@ -1,3 +1,8 @@
+<script>
+	import Layout from "./+layout.svelte";
+	import Page from "./alzheimers-disease/+page.svelte";
+
+</script>
 <div class="max-w-2xl m-auto">
 
 <img src="/assets/pexels-andrea-piacquadio-3791664@2400x1200.jpg" alt="People using BoldContacts on a phone" loading="lazy">
@@ -24,6 +29,35 @@
 <p>A right-arrow button means "show the next contact".</p>
 
 
+<h2>Why is BoldContacts free?</h2>
+
+<p>BoldContacts is free because we want to help as many people as possible. BoldContacts exists because our family members have Alzheimer's Disease and Parkinson's Disease. BoldContacts is built to help them keep in touch with family, friends, and caregivers.</p>
+
+<img src="/assets/pexels-kampus-production-7551617@2400x1200.jpg" alt="Happy family uses a tablet computer">
+
+<p>We are actively seeking help spreading the word about BoldContacts, so more people can hear about it, and more people can try it.  If you want more information about this, or can help, please contact Joel Parker Henderson at <a href="mailto:joel@boldcontacts.org">joel@boldcontacts.org</a>.</p>
+
+
+
+<h2>Setup & Personalization</h2>
+
+<p>The first time you launch BoldContats, you will see an Apple iOS prompt that asks for you to approve this access. Say yes.</p>
+
+<img src="/assets/pexels-kampus-production-7477708@2400x1200.jpg" alt="Person using a tablet for video calling" loading="lazy">
+
+<p>You can personalize how your BoldContacts app connects to your contacts. For example, you can choose whether BoldContacts will call a telephone number, or intiate a FaceTime video connection, or connect to any other service of your choice.</p>
+
+<ol>
+    
+<li>Launch your typical Apple Contacts app. Find the contact that you want to personalize. Tap the edit button.</li>
+
+<li>Create a new contact field, such as for a phone number, or email address, or URL address. Edit the new field label to be "BoldContacts", and the field value to be whatever you want.</li>
+
+<li>The next time you launch BoldContacts, the app will load your contact's new information, and use your contact's new field.</li>
+
+</ol>
+
+
 <h2>Localization and Internationalization</h2>
 
 <p>The app provides localization and internationalization for many worldwide languages. We welcome help improving the phrasings and translations, and adding more languages and examples.</p>
@@ -33,36 +67,30 @@
 <p>The app includes Afrikaans, Amharic, Arabic, Armenian, Assamese, Azerbaijani, Bangla, Basque, Belarusian, Bosnian, Bulgarian, Catalan, Chinese, Corsican, CroationC, Danish, Dutch, English, Esperanto, Finnish, French, Galician, German, Greek, Gujarati, Hawaiian, Hebrew, Hindi, Hmong, Icelandic, Igbo, Indonesian, Irish, Italian, Japanese, Javanese, Kannada, Khmer, Korean, Lao, Latin, Lingala, Lithuanian, Malay, Maori, Marathi, Meiteilon, Nepali, Norwegian, Persian, Polish, Portugese, Punjabi, Quechua, Russian, Samoan, Sanskit, Scots Gaelic, Shona, Slovenian, Swahili, Swedish, Tamil, Telegu, Thai, Turkish, Turkmen, Ukranian, Urdu, Uyghur, Uzbek, Vietnamese, Welsh, Xhosa, Yiddish, Yoruba, Zulu.</p>
 
 
-<h2>Why is BoldContacts free?</h2>
+<h2>Goals</h2>
 
-<p>BoldContacts is free because we want to help as many people as possible. BoldContacts exists because our family members have Alzheimer's Disease and Parkinson's Disease. BoldContacts is built to help them keep in touch with family, friends, and caregivers.</p>
+<p>Right now, BoldContacts is simple. In the future, our goals include adding capabilties as we learn more about what people want and need.</p>
 
-<img src="/assets/pexels-kampus-production-7551617@2400x1200.jpg" alt="Happy family uses a tablet computer">
+<img src="/assets/pexels-anna-shvets-5231330@2400x1200.jpg" alt="Elderly person using an Apple iPad for FaceTime" loading="lazy">
 
-<p>We are actively seeking donations and grants to enable our work on accessibility software full time. Contact Joel Parker Henderson at <a href="mailto:joel@joelparkerhenderson.com">joel@joelparkerhenderson.com</a>.</p>
+<p>Goals for cognitive areas include helping people who experience memory loss, mental difficulties, confusion, and the like.</p>
+
+<p>Goals for motor areas include helping people who experience arthritis, nerve damage, reflex tremor, and the like.</p>
+
+<p>Goals for vision areas include helping people who experience partial vision, double vision, blurred vision, and the like.</p>
 
 
-<h2>Setup</h2>
+<h2>For carers &amp; caregivers</h2>
 
-<p>The first time you launch BoldContats, you will see an Apple iOS prompt that asks for you to approve this access.</p>
+<p>If you are helping someone with BoldContacts, here are ideas that may be helpful for you. In our experience, a carer can help set up BoldContacts, and help show the caree how to use it.</p>
 
-<p>Say yes.</p>
+<img src="/assets/pexels-marcus-aurelius-6787960@2400x1200.jpg" alt="Two people using an iPad together" loading="lazy">
 
-<h2>Personalization</h2>
+<p>If the person likes seeing photos, then the carer can use the typical iOS Contacts app to add photos to contacts.</p>
 
-<p>You can personalize how your BoldContacts app will connect to your contact:</p>
+<p>If the person feels they have too many contacts, then the carer can use the typical iOS Contacts app to delete any unneeded contacts.</p>
 
-<ol>
-    
-<li>Launch your typical Apple Contacts app, and edit the contact.</li>
-
-<li>Create a new contact field i.e. phone number, or email address, or URL address.</li>
-
-<li>Edit the new contact field label to be "BoldContacts".</li>
-
-</ol>
-
-<p>The app saves brief anonymous usage data in your "Documents" directory in a file named "BoldContacts.txt". The data is for diagnostics and disability assistance.</p>
+<p>If the person has difficulty holding a phone or tablet, then the carer can utilize a third-party accessory, such as a table-top stand, or a desk clamp mount, or wheelchair gooseneck connector.</p>
 
 
 <h2>Help Wanted</h2>
@@ -73,30 +101,9 @@
 
 <p>Are you caring for someone who is experiencing disabilities? How can we support you?</p>
 
-<p>Are you a patron or fundraiser? We're seeking help with donations, grants, and fundraising.</p>
+<p>Are you a patron or fundraiser? We welcome help with donations, grants, and fundraising.</p>
 
-<p>Are you a mobile app programmer? We're seeking to grow our apps with iOS Swift and Android Kotlin.</p>
-
-
-<h2>Goals</h2>
-
-<p>Good usability for people who experience motor difficulties.</p>
-    
-<ul>
-    <li>Examples: arthritis, nerve damage, reflex tremor, etc.</li>
-</ul>
-
-<p>Good usability for people who experience vision difficulties.</p>
-
-<ul>
-    <li>Examples: partial vision, double vision, blurred vision, etc.</li>
-</ul>
-
-<p>Good usability for people who experience cognitive difficulties.</p>
-
-<ul>
-    <li>Examples:  memory loss, mental impairment, confusion, etc.</li>
-</ul>
+<p>Are you a mobile app programmer? Come code with us using iOS Swift and Android Kotlin.</p>
 
 
 <h2>For more information</h2>
@@ -171,5 +178,7 @@
 <p>Copyright © 2022-2023 by Joel Parker Henderson.</p>
 
 <p>The purpose of the trademark and copyright is to help protect the app and its users from identity theft, or fraud, or hacking.</p>
+
+<p>The app saves brief anonymous usage data in your "Documents" directory in a file named "BoldContacts.txt". The data is for diagnostics and disability assistance.</p>
 
 </div>
