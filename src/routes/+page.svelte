@@ -99,30 +99,48 @@
 
 <p>Are you experiencing disabilities? How can we help you?</p>
 
-<p>Are you caring for someone who is experiencing disabilities? How can we support you?</p>
+<p>Are you a carer? How can we support you, as you support others?</p>
 
-<p>Are you a patron or fundraiser? We welcome help with donations, grants, and fundraising.</p>
+<p>Are you a patron? Can we talk with you about grants and fundraising?</p>
 
-<p>Are you a mobile app programmer? Come code with us using iOS Swift and Android Kotlin.</p>
+<p>Are you a programmer? Would you like to help us with Swift and Kotlin?</p>
 
 
-<h2>For more information</h2>
+<h2>Organizations we want to reach</h2>
 
-<p>Introductions:</p>
+<p><a href="https://www.aarp.org">AARP</a></p>
 
-<ul>
+<p><a href="https://www.als.org">ALS Association</a></p>
 
-    <li><a href="/alzheimers-disease/">Alzheimer's disease</a></li>
+<p><a href="https://www.alz.org">Alzheimer's Association</a></p>
 
-    <li><a href="/amyotrophic-lateral-sclerosis/">Amyotrophic lateral sclerosis</a></li>
+<p><a href="https://alzfdn.org">Alzheimer’s Foundation of America</a></p>
 
-    <li><a href="/multiple-sclerosis/">Multiple sclerosis</a></li>
+<p><a href="https://www.apdaparkinson.org">American Parkinson's Disease Association</a></p>
 
-    <li><a href="/muscular-dystrophy/">Muscular dystrophy</a></li>
+<p><a href="https://davisphinneyfoundation.org">Davis Phinney Foundation For Parkinson's</a></p>
 
-    <li><a href="/parkinsons-disease/">Parkinson's disease</a></li>
+<p><a href="http://www.mdausa.org">Muscular Dystrophy Association</a></p>
 
-</ul>
+<p><a href="https://www.nationalmssociety.org">National Multiple Sclerosis Society</a></p>
+
+<p><a href="https://www.parkinson.org">Parkinson's Foundation</a></p>
+
+<p><a href="https://www.michaeljfox.org">The Michael J. Fox Foundation - Parkinson's</a></p>
+
+
+<h2>Medical introductions</h2>
+
+<p><a href="/alzheimers-disease/">Alzheimer's disease</a></p>
+
+<p><a href="/amyotrophic-lateral-sclerosis/">Amyotrophic lateral sclerosis</a></p>
+
+<p><a href="/multiple-sclerosis/">Multiple sclerosis</a></p>
+
+<p><a href="/muscular-dystrophy/">Muscular dystrophy</a></p>
+
+<p><a href="/parkinsons-disease/">Parkinson's disease</a></p>
+
 
 <!--
 
@@ -143,32 +161,6 @@
 </ul>
 
 -->
-
-<p>Organization links:</p>
-
-<ul>
-
-    <li><a href="https://www.aarp.org">AARP</a></li>
-
-    <li><a href="https://www.als.org">ALS Association</a></li>
-
-    <li><a href="https://www.alz.org">Alzheimer's Association</a></li>
-
-    <li><a href="https://alzfdn.org">Alzheimer’s Foundation of America</a></li>
-
-    <li><a href="https://www.apdaparkinson.org">American Parkinson's Disease Association</a></li>
-
-    <li><a href="https://davisphinneyfoundation.org">Davis Phinney Foundation For Parkinson's</a></li>
-
-    <li><a href="http://www.mdausa.org">Muscular Dystrophy Association</a></li>
-
-    <li><a href="https://www.nationalmssociety.org">National Multiple Sclerosis Society</a></li>
-    
-    <li><a href="https://www.parkinson.org">Parkinson's Foundation</a></li>
-
-    <li><a href="https://www.michaeljfox.org">The Michael J. Fox Foundation - Parkinson's</a></li>
-
-</ul>
 
 
 <h2>Legal</h2>
