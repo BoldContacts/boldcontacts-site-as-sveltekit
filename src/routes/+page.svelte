@@ -5,7 +5,7 @@
 </script>
 <div class="max-w-2xl m-auto">
 
-<img src="/assets/pexels-andrea-piacquadio-3791664@2400x1200.jpg" alt="People using BoldContacts on a phone" loading="lazy">
+<img src="/assets/screenshot.png" alt="Screenshot gallery of BoldContacts on an iPhone" loading="lazy">
 
 <h1>BoldContacts</h1>
 
@@ -20,7 +20,7 @@
 
 <p>The app displays each contact with a big photo, big font, and big buttons.</p>
 
-<img src="/assets/screenshot.png" alt="Screenshot gallery of BoldContacts on an iPhone" loading="lazy">
+<img src="/assets/pexels-andrea-piacquadio-3791664@2400x1200.jpg" alt="People using BoldContacts on a phone" loading="lazy">
 
 <p>A phone button means "contact this person now". This button connects you by using your choice of video, or phone, or email, or message, or custom URL. A caregiver can customize this by using the Apple iOS Contacts app.</p>
     
