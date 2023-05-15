@@ -1,6 +1,6 @@
 <div class="max-w-2xl m-auto">
 
-    <img src="/assets/screenshot.png" alt="Screenshot gallery of BoldContacts on an iPhone" loading="lazy">
+    <img src="/assets/pexels-kampus-production-7551617@2400x1200.jpg" alt="Happy family uses a tablet computer">
     
     <h1>Skill space</h1>
         
@@ -36,11 +36,11 @@
 
     <ul>
 
-        <li>✅ Gauge initial interest with potential volunteers.</li>
+        <li>✅ Gauge initial interest with potential volunteers. [DONE]</li>
 
-        <li>✅ Create anchor project BoldContats.org for high-need population.</li>
+        <li>✅ Create anchor project (BoldContacts) for high-need population. [DONE]</li>
 
-        <li>✅ Locate a potential building that has high-quality access for people who are elderly, or disabled, or using public transportation via bus/train/taxi.</li>
+        <li>✅ Locate a potential building that has high-quality access for people who are elderly, or disabled, or using public transportation via bus/train/taxi. [DONE]</li>
 
         <li>Discuss the project with the appropriate local council representatives. [IN PROGRES]</li>
 
