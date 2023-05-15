@@ -4,9 +4,9 @@
     
     <h1>Skill space</h1>
         
-    Purpose: Provide a physical place that is accessible to people who are elderly, people who are disabled, and their carers, where the people can get hands-on help with new skills.
+    <p>Purpose: Provide a physical place that is accessible to people who are elderly, people who are disabled, and their carers, where the people can get hands-on help with new skills.</p>
 
-    BoldContacts is one skill of many that can be shared in the skill space. We have volunteers who are interested in helping with many more kinds of skills, for people of all ages and abilities.
+    <p>BoldContacts is one skill of many that can be shared in the skill space. We have volunteers who are interested in helping with many more kinds of skills, for people of all ages and abilities.</p>
 
     <ul>
     
@@ -30,7 +30,7 @@
 
     </ul>
     
-    We are seeking to develop the skill space with this roadmap:
+    <p>We are seeking to develop the skill space using this roadmap:</p>
 
     <ul>
 
@@ -51,5 +51,7 @@
         <li>Launch to the general public. E.t.a. September 2023.</li>
 
     </ul>
+       
+    <p>We welcome help and advice toward creating the skill space. Email joel@boldcontacts.org.</p>
 
 </div>
