@@ -18,6 +18,8 @@
 
         <li>Herbal treatments: learn how to use herbs and tinctures to improve your well-being and your happiness.</li>
         
+        <li>Chess for fun: learn the basics of the game, the moves, and why chess is so much fun.</li>
+
         <li>Creative writing: learn how to write a poem, short story, or novel; includes practice reading your work.</li>
 
         <li>Mental health coaching: learn about resources in the community and online that may help you and your loved ones.</li>
