@@ -11,7 +11,9 @@
 
 <p><a href="https://apps.apple.com/us/app/boldcontacts/id6443335501">BoldContacts on Apple App Store is now free!</a></p>
 
-<p><a href="https://play.google.com/">BoldContacts on Google Play is coming soon.</a></p>
+<p><a href="/uk-global-talent-visa">UK Global Talent Visa - please help if you can.</a></p>
+
+<p><a href="/skill-space">Skill space is a work in progress.</a></p>
 
 
 <h2>What is BoldContacts?</h2>
