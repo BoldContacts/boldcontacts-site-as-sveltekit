@@ -30,4 +30,6 @@ Examples:
 
 </ul>
 
+<blockquote>"I’m a mental health advocate in Wales and I work to raise awareness of the importance of mental health across the UK. I’ve been interviewed by the BBC a number of times on various mental health topics. I have also taken part in a number of discussions and given speeches at national events, contributed to podcasts and written articles based on my experiences. I believe Joel and BoldContacts will be beneficial to country." - Hedydd Elias</blockquote>
+
 </div>
