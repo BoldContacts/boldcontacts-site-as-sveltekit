@@ -4,7 +4,7 @@
 
 <h1>Quotations request</h1>
     
-Purpose:
+<p>Purpose:</p>
 
 <ul>
 
@@ -14,7 +14,7 @@ Purpose:
 
 </ul>
 
-Examples:
+<p>Examples:</p>
 
 <ul>
     
