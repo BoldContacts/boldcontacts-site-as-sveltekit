@@ -32,6 +32,9 @@ Examples:
 
 <h2>Quotations</h2>
 
-<p><blockquote>"I’m a mental health advocate in Wales and I work to raise awareness of the importance of mental health across the UK. I’ve been interviewed by the BBC a number of times on various mental health topics. I have also taken part in a number of discussions and given speeches at national events, contributed to podcasts and written articles based on my experiences. I believe Joel and BoldContacts will be beneficial to our country." - Hedydd Elias</blockquote></p>
+<blockquote><p>"My research over the past 25 years involves examining how older people stay connected to the world around them. In our fast evolving technocentric society, there is significant and pressing need to make sure older people can fully engage with the world around them using technology, enhancing their connectivity with other people and the things they need to do.  Chatting with Joel about his product BoldContacts fits this need perfectly, making technology simple for older people to use so they can stay connected and get their needs met. There is nothing else out there that meets this need in such a simple and effective way." - Professor Charles Musselwhite, Professor of Psychology, Co-Director of the Centre for Ageing and Dementia Research, Aberystwyth University.</p></blockquote>
+
+<blockquote><p>"I’m a mental health advocate in Wales and I work to raise awareness of the importance of mental health across the UK. I’ve been interviewed by the BBC a number of times on various mental health topics. I have also taken part in a number of discussions and given speeches at national events, contributed to podcasts and written articles based on my experiences. I believe Joel and BoldContacts will be beneficial to our country." - Hedydd Elias, Mental Health Speaker, National Eisteddfod of Wales.</p></blockquote>
+
 
 </div>
