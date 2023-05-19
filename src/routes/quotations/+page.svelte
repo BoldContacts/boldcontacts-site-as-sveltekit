@@ -22,7 +22,7 @@
 
     <li>"I am an expert in [etc.]. We want to work with smart motivated people in related. Joel can help because he's an expert software developer, and he wants to move to the UK to be of service."</li>
 
-    <li>"[your project here] is working on [your goal here]. Joel is offering a technology that may be able to help with this kind of work, and also with similar kinds of work by related groups."</li>
+    <li>"[your project here] is working on [your goal here]. Joel is offering technology and training that may be able to help with this kind of work, and also with similar kinds of work by related groups."</li>
 
     <li>"Please consider Joel for the UK Global Talent Visa. I'm working on [your initiatives] and I appreciate his development of free open source software. I believe the UK can leverage his skills."</li>
 
