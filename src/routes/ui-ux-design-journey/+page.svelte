@@ -32,6 +32,8 @@
 
 <p>As their diseases progressed, they lost their ability to use the default iPhone Contacts app. This loss cut them off from their video calling. This made them sad, lonely, and more confused.</p>
 
+<p>What I learned pretty quickly is that millions of people are affected by cognitive/motor/vision impairments, and many millions more will be affected within the next ten years. The need for a better solution now is very large, and the need for a roadmap to the future is also very large.</p>
+
 
 <h2>Attempt 1: Look for accessibility apps</h2>
 
