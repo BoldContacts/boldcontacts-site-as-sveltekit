@@ -50,7 +50,7 @@
 <p>After much searching, I concluded that there wasn't a viable app.</p>
 
 
-<h2>Attempt 2: Voice control ~ Amazon Echo Dot</h2>
+<h2>Attempt 2: Voice control &amp; Amazon Echo Dot</h2>
 
 <p>Because of the dementia, and hand tremors, and macular degeneration, my next attempt was to try voice control, using the Amazon Echo Dot:</p>
 
@@ -71,7 +71,7 @@
 <p>After many tries, I concluded that voice control was too confusing for my folks. At the same time, I saw them both able to reliably dial their land-line push-button phones. So I searched for a physical solution.</p>
 
 
-<h2>Attempt 3: Dedicated device ~ Facebook Portal</h2>
+<h2>Attempt 3: Dedicated device &amp; Facebook Portal</h2>
 
 <p>Because my folks were still able to use their physical phones, I searched for a physical device that worked more like a desktop phone. After talking with many of my friends, including friends from Facebook, I found the Facebook Portal:</p>
 
@@ -92,7 +92,7 @@
 <p>After a week, I returned the Facebook Portal. In my opinion, the Portal is a great concept, but with too many UI/UX problems. I'll be surprised if Facebook continues to sell it.</p>
 
 
-<h2>Attempt 4: Dedicated demographic ~ Grandpad</h2>
+<h2>Attempt 4: Dedicated demographic &amp; Grandpad</h2>
 
 <p>Because the core problem is that my folks are elderly, next I searched for an elderly-specific solution. Eventually found the Grandpad, which provides a dedicated tablet, with a dedicated mobile connection, and elderly-specific software:</p>
 
