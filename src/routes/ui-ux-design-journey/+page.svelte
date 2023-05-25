@@ -41,7 +41,7 @@
 
 <ul>
     
-    <li>Many of the apps provided more information on each screen, such as for salespeople making many business calls. These apps wouldn't work for my folks.</li>
+    <li>Many of the apps provided more information on each screen, such as for salespeople making many business calls. These apps didn't work for most of the users.</li>
 
     <li>A few of the apps did provide easier ways to call, but had problems such as recent negative reviews, or a lack of maintenance, or a requirement for buying a new iPhone to run the newest iOS.</li>
 
@@ -58,24 +58,24 @@
 
 <p><img src="/assets/ui-ux-design-journey/amazon-echo-dot@960x563.jpg" width="50%" alt="Amazon Echo Dot product photo" loading="lazy"></p>
 
-<p>Unfortunately, my folks weren't able to understand voice control.</p>
+<p>Unfortunately, most of the users weren't able to understand voice control.</p>
 
 <ul>
     
-    <li>My mom had never used voice control before, and didn't understand the overall concept of talking to the room.</li>
+    <li>For example, my mom had never used voice control before, and didn't understand the overall concept of talking to the room.</li>
 
-    <li>My dad had used Amazon Alexa for years at home, especially for playing music. But he lost the ability to remember how to trigger the Echo.</li>
+    <li>For example, my dad had used Amazon Alexa voice control for years to play his music. But he lost the ability to remember how to trigger Alexa.</li>
 
     <li>Key learning: a physical device with touch is easier to understand than room-wide voice control.</li>
 
 </ul>
 
-<p>After many tries, I concluded that voice control was too confusing for my folks. At the same time, I saw them both able to reliably dial their land-line push-button phones. So I searched for a physical solution.</p>
+<p>After many tries, I concluded that voice control was too confusing for users. At the same time, I saw them both able to reliably dial their land-line push-button phones. So I searched for a physical solution.</p>
 
 
 <h2>Attempt 3: Dedicated device &amp; Facebook Portal</h2>
 
-<p>Because my folks were still able to use their physical phones, I searched for a physical device that worked more like a desktop phone. After talking with many of my friends, including friends from Facebook, I found the Facebook Portal:</p>
+<p>Because most of the users were still able to use their physical phones to some degree, I searched for a physical device that worked more like a desktop phone. After talking with many of my friends, including friends from Facebook, I found the Facebook Portal:</p>
 
 <p><!-- img src="/assets/ui-ux-design-journey/facebook-portal-10-inch@960x782.png" width="50%" alt="Facebook Portal 10-inch product photo" loading="lazy" --></p>
 
@@ -87,7 +87,7 @@
 
     <li>Because of the physical weight and shape, the Facebook Portal wasn't easy to carry around, nor put in a purse, nor mount to a wheelchair.</li>
 
-    <li>Key learnings: the folks preferred the larger screen size of the Portal 10" over the smaller screen size of the iPhone, and also sometimes liked using the desktop stand capabily.</li>
+    <li>Key learnings: users preferred the larger screen size of the Portal 10" over the smaller screen size of the iPhone, and also sometimes liked using the desktop stand capabily.</li>
 
 </ul>
 
@@ -96,19 +96,19 @@
 
 <h2>Attempt 4: Dedicated demographic &amp; Grandpad</h2>
 
-<p>Because the core problem is that my folks are elderly, next I searched for an elderly-specific solution. Eventually found the Grandpad, which provides a dedicated tablet, with a dedicated mobile connection, and elderly-specific software:</p>
+<p>Because one of the issue correlations is that users are elderly, I searched for an elderly-specific solution. Eventually found the Grandpad, which provides a dedicated tablet, with a dedicated mobile connection, and elderly-specific software:</p>
 
 <p><!-- img src="/assets/ui-ux-design-journey/grandpad@960x700.png" width="50%" alt="Grandpad product photo" loading="lazy" --></p>
 
-<p>The Grandpad works well, and the team is highly helpful. Unfortunately, it fell short for my folks' specific needs:</p>
+<p>The Grandpad works well, and the team is highly helpful. Unfortunately, it fell short for users' specific needs:</p>
 
 <ul>
     
     <li>The Grandpad comes with its own mobile phone service, which has a significant monthly cost.</li>
 
-    <li>The Grandpad was confusing to my folks' caregivers, because they'd never seen one.</li>
+    <li>The Grandpad was confusing to caregivers, because they'd never seen one, and couldn't quickly figure out how to set it up.</li>
 
-    <li>Key learnings: to be adopted by caregivers, it's a must to use commodity devices (iPhones, iPads, etc.) and free WiFi.</li>
+    <li>Key learnings: to be adopted by caregivers, it's a must-have to use commodity devices (iPhones, iPads, etc.) and to use free WiFi.</li>
 </ul>
 
 <p>The Grandpad was close, but not quite. What I learned is that a great solution needs to be able to use free WiFi, rather than requiring a mobile phone montly payment. And a great solution needs to be something very easy for caregivers to understand and use.</p>
