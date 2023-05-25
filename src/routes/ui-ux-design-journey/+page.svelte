@@ -225,9 +225,9 @@
 
     <li>The big main photo provides delight and recognition.</li>
 
-    <li>The bold font make the name easy to read.</li>
+    <li>The bold font is easy to see.</li>
 
-    <li>The bold big buttons are easy to see and easy to tap.</li>
+    <li>The bold buttons are easy to see and easy to tap.</li>
 
     <li>The app uses one page layout, rather than multiple page layouts for a contacts list page that drills into a contacts person page. The app's entire functionality is always available on the page, and in addition navigation easier to understand and use.</li>
 
