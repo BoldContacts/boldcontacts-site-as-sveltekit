@@ -17,6 +17,8 @@
 
 <p><a href="/skill-space">Skill space is a work in progress.</a></p>
 
+<p><a href="/ui-ux-design-journey">UI/UX design journey.</a></p>
+
 
 <h2>What is BoldContacts?</h2>
 
@@ -40,7 +42,6 @@
 <img src="/assets/pexels-kampus-production-7551617@2400x1200.jpg" alt="Happy family uses a tablet computer">
 
 <p>We are actively seeking help spreading the word about BoldContacts, so more people can hear about it, and more people can try it.  If you want more information about this, or can help, please contact Joel Parker Henderson at <a href="mailto:joel@boldcontacts.org">joel@boldcontacts.org</a>.</p>
-
 
 
 <h2>Setup & Personalization</h2>
