@@ -1,8 +1,3 @@
-<script>
-	import Layout from "./+layout.svelte";
-	import Page from "./alzheimers-disease/+page.svelte";
-
-</script>
 <div class="max-w-2xl m-auto">
 
 <img src="/assets/screenshot.png" alt="Screenshot gallery of BoldContacts on an iPhone" loading="lazy">
@@ -46,11 +41,11 @@
 
 <h2>Setup & Personalization</h2>
 
-<p>The first time you launch BoldContats, you will see an Apple iOS prompt that asks for you to approve this access. Say yes.</p>
+<p>The first time you launch BoldContacts, you will see an Apple iOS prompt that asks for you to approve this access. Say yes.</p>
 
 <img src="/assets/pexels-kampus-production-7477708@2400x1200.jpg" alt="Person using a tablet for video calling" loading="lazy">
 
-<p>You can personalize how your BoldContacts app connects to your contacts. For example, you can choose whether BoldContacts will call a telephone number, or intiate a FaceTime video connection, or connect to any other service of your choice.</p>
+<p>You can personalize how your BoldContacts app connects to your contacts. For example, you can choose whether BoldContacts will call a telephone number, or initiate a FaceTime video connection, or connect to any other service of your choice.</p>
 
 <ol>
     
@@ -69,12 +64,12 @@
 
 <img src="/assets/pexels-nataliya-vaitkevich-7235805@2400x1200.jpg" alt="World globe held in hands" loading="lazy">
 
-<p>The app includes Afrikaans, Amharic, Arabic, Armenian, Assamese, Azerbaijani, Bangla, Basque, Belarusian, Bosnian, Bulgarian, Catalan, Chinese, Corsican, CroationC, Danish, Dutch, English, Esperanto, Finnish, French, Galician, German, Greek, Gujarati, Hawaiian, Hebrew, Hindi, Hmong, Icelandic, Igbo, Indonesian, Irish, Italian, Japanese, Javanese, Kannada, Khmer, Korean, Lao, Latin, Lingala, Lithuanian, Malay, Maori, Marathi, Meiteilon, Nepali, Norwegian, Persian, Polish, Portugese, Punjabi, Quechua, Russian, Samoan, Sanskit, Scots Gaelic, Shona, Slovenian, Swahili, Swedish, Tamil, Telegu, Thai, Turkish, Turkmen, Ukranian, Urdu, Uyghur, Uzbek, Vietnamese, Welsh, Xhosa, Yiddish, Yoruba, Zulu.</p>
+<p>The app includes Afrikaans, Amharic, Arabic, Armenian, Assamese, Azerbaijani, Bangla, Basque, Belarusian, Bosnian, Bulgarian, Catalan, Chinese, Corsican, Croatian, Danish, Dutch, English, Esperanto, Finnish, French, Galician, German, Greek, Gujarati, Hawaiian, Hebrew, Hindi, Hmong, Icelandic, Igbo, Indonesian, Irish, Italian, Japanese, Javanese, Kannada, Khmer, Korean, Lao, Latin, Lingala, Lithuanian, Malay, Maori, Marathi, Meiteilon, Nepali, Norwegian, Persian, Polish, Portuguese, Punjabi, Quechua, Russian, Samoan, Sanskrit, Scots Gaelic, Shona, Slovenian, Swahili, Swedish, Tamil, Telegu, Thai, Turkish, Turkmen, Ukrainian, Urdu, Uyghur, Uzbek, Vietnamese, Welsh, Xhosa, Yiddish, Yoruba, Zulu.</p>
 
 
 <h2>Goals</h2>
 
-<p>Right now, BoldContacts is simple. In the future, our goals include adding capabilties as we learn more about what people want and need.</p>
+<p>Right now, BoldContacts is simple. In the future, our goals include adding capabilities as we learn more about what people want and need.</p>
 
 <img src="/assets/pexels-anna-shvets-5231330@2400x1200.jpg" alt="Elderly person using an Apple iPad for FaceTime" loading="lazy">
 

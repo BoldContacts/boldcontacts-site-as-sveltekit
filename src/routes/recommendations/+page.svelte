@@ -20,7 +20,7 @@
     <h2>Hospital</h2>
 
     <blockquote><p>"I'm a Sister in NHS A&E. I work with critically ill patients and deal with emergencies every day. My hospital has elderly patients who need to stay for longer durations, even weeks, in Clinical Decisions Unit (CDU) and other wards.</p><p>I know Joel. I have talked with him about his BoldContacts project and the innovation of helping these patients by giving them better access to video calling. I hope you admit him to the UK."</p></blockquote>
-    - <cite>Laura Hackett, Hywell Dda Health Board, Bronglais Hospital</cite>
+    - <cite>Laura Hackett, Hywel Dda Health Board, Bronglais Hospital</cite>
     
 
     <h2>Mental Health Advocate</h2>

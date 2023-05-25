@@ -24,7 +24,7 @@
 
         <li>Add medical research telemetry for mobility location tracking.</li>
 
-        <li>Add carer capabilties for managing multiple patients on same device.</li>
+        <li>Add carer capabilities for managing multiple patients on same device.</li>
 
         <li>Actuate Apple macOS app for laptops and desktops.</li>
 
@@ -52,7 +52,7 @@
 
         <li>Setup guide for carers, using instructional design methodology.</li>
 
-        <li>Social media presence, starting with Facebook and Instgram.</li>
+        <li>Social media presence, starting with Facebook and Instagram.</li>
 
     </ul>
 

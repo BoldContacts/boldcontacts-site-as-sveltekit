@@ -18,7 +18,7 @@
 
 <h2>iPhone Contacts app issues</h2>
 
-<p>Unfortunately, Alheimer's Disease, Parkinson's Disease, and Age-Related Macular Degeneration (AMD) often cause impairments making it hard to use the default iPhone Contacts app:</p>
+<p>Unfortunately, Alzheimer's Disease, Parkinson's Disease, and Age-Related Macular Degeneration (AMD) often cause impairments making it hard to use the default iPhone Contacts app:</p>
 
 <ul>
 
@@ -26,7 +26,7 @@
 
     <li>Parkinson's Disease often causes motor impairment, including hand tremors. My dad started having trouble using the iPhone icons, how to navigate the default iPhone Contacts app, and how to accurately tap the contact item to dial.</li>
 
-    <li>Age-Related Macular Degeneration often causes vision impairment, including blurred vision and less than 20/20 vision. My folks started having a hard time seeing the iPhone text, even with Apple's accessbility font scaling turned up.</li>
+    <li>Age-Related Macular Degeneration often causes vision impairment, including blurred vision and less than 20/20 vision. My folks started having a hard time seeing the iPhone text, even with Apple's accessibility font scaling turned up.</li>
 
 </ul>
 
@@ -60,7 +60,7 @@
 
 <p>Because of the dementia, and hand tremors, and macular degeneration, my next attempt was to try voice control, using the Amazon Echo Dot:</p>
 
-<p><img src="/assets/ui-ux-design-journey/amazon-echo-dot@960x563.jpg" width="50%" alt="Amazon Echo Dot product photo" loading="lazy"></p>
+<p><img src="/assets/ui-ux-design-journey/amazon-echo-dot@960x563.jpg" width="50%" alt="Amazon Echo Dot product" loading="lazy"></p>
 
 <p>Unfortunately, most of the users weren't able to understand voice control.</p>
 
@@ -81,7 +81,7 @@
 
 <p>Because most of the users were still able to use their physical phones to some degree, I searched for a physical device that worked more like a desktop phone. After talking with many of my friends, including friends from Facebook, I found the Facebook Portal:</p>
 
-<p><img src="/assets/ui-ux-design-journey/facebook-portal-10-inch@960x782.jpg" width="50%" alt="Facebook Portal 10-inch product photo" loading="lazy"></p>
+<p><img src="/assets/ui-ux-design-journey/facebook-portal-10-inch@960x782.jpg" width="50%" alt="Facebook Portal 10-inch product" loading="lazy"></p>
 
 <p>Unfortunately, the Facebook Portal is quite confusing, even to me.</p>
 
@@ -91,7 +91,7 @@
 
     <li>Because of the physical weight and shape, the Facebook Portal wasn't easy to carry around, nor put in a purse, nor mount to a wheelchair.</li>
 
-    <li>Key learnings: users preferred the larger screen size of the Portal 10" over the smaller screen size of the iPhone, and also sometimes liked using the desktop stand capabily.</li>
+    <li>Key learnings: users preferred the larger screen size of the Portal 10" over the smaller screen size of the iPhone, and also sometimes liked using the desktop stand capability.</li>
 
 </ul>
 
@@ -102,7 +102,7 @@
 
 <p>Because one of the issue correlations is that users are elderly, I searched for an elderly-specific solution. Eventually found the Grandpad, which provides a dedicated tablet, with a dedicated mobile connection, and elderly-specific software:</p>
 
-<p><img src="/assets/ui-ux-design-journey/grandpad@960x700.jpg" width="50%" alt="Grandpad product photo" loading="lazy"></p>
+<p><img src="/assets/ui-ux-design-journey/grandpad@960x700.jpg" width="50%" alt="Grandpad product" loading="lazy"></p>
 
 <p>The Grandpad works well, and the team is highly helpful. Unfortunately, it fell short for users' specific needs:</p>
 
@@ -115,7 +115,7 @@
     <li>Key learnings: to be adopted by caregivers, it's a must-have to use commodity devices (iPhones, iPads, etc.) and to use free WiFi.</li>
 </ul>
 
-<p>The Grandpad was close, but not quite. What I learned is that a great solution needs to be able to use free WiFi, rather than requiring a mobile phone montly payment. And a great solution needs to be something very easy for caregivers to understand and use.</p>
+<p>The Grandpad was close, but not quite. What I learned is that a great solution needs to be able to use free WiFi, rather than requiring a mobile phone monthly payment. And a great solution needs to be something very easy for caregivers to understand and use.</p>
 
 
 <h2>BoldContacts sketches</h2>
@@ -162,7 +162,7 @@
 
 <ul>
 
-    <li>The number of important contacts is small, typically 9 people or fewer. The important contacts were family members, closests friends, and some healthcare providers.</li>
+    <li>The number of important contacts is small, typically 9 people or fewer. The important contacts were immediate family members, best friends, and some healthcare providers.</li>
 
     <li>The app must be free, because any kind of payment is too complex for the user.</li>
 
@@ -181,9 +181,9 @@
 
     <li>Some of the typical Apple mobile UI/UX interactions do not work well for many users, especially invisible interactions. For example, press-drag-scroll is used in the Contacts app for scrolling up and down through the contacts list; this was confusion, and worse, did not function reliably when the user had hand tremors.</li>
 
-    <li>Some of the Apple security restrictions make it hard to use a cloud-based database, but easy to use the user's existing iOS contacts databse.</li>
+    <li>Some of the Apple security restrictions make it hard to use a cloud-based database, but easy to use the user's existing iOS contacts database.</li>
 
-    <li>Some of the current Apple iOS coding practices won't run on older equiment, such as a six-year-old iPhone or iPad, which cannot run the current iOS. But many of the users have these older deveices, and cannot afford to buy a new iPhone, or cannot figure out how to set up a new iPhone.</li>
+    <li>Some of the current Apple iOS coding practices won't run on older equipment, such as a six-year-old iPhone or iPad, which cannot run the current iOS. But many of the users have these older devices, and cannot afford to buy a new iPhone, or cannot figure out how to set up a new iPhone.</li>
 
     <li>Many older devices are cheap and easy to procure. In fact, many users had family members who had an older iPhone or iPad that wasn't being used, and could be transferred to the user.</li>
 
@@ -208,7 +208,7 @@
 
     <li>Each contact typically has one preferred contact method, such as always via a phone call, or always via FaceTime, or always via.</li>
 
-    <li>Some users have a very strong preference for their native language. And the number of native langauges is very high. Therefore, internationalization and localization are very important.</li>
+    <li>Some users have a very strong preference for their native language. And the number of native languages is very high. Therefore, internationalization and localization are very important.</li>
 
 </ul>
 

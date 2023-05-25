@@ -42,7 +42,7 @@
 
         <li>✅ Locate a potential building that has high-quality access for people who are elderly, or disabled, or using public transportation via bus/train/taxi. [DONE]</li>
 
-        <li>Discuss the project with the appropriate local council representatives. [IN PROGRES]</li>
+        <li>Discuss the project with the appropriate local council representatives. [IN PROGRESS]</li>
 
         <li>Incorporate as a charity-- this requires UK Global Talent Visa authorization E.t.a. June 2023.</li>
 
