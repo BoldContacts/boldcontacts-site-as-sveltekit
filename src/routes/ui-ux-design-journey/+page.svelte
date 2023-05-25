@@ -8,10 +8,16 @@
 
 <p>The UI/UX design journey started when my mom (mother-in-law) was diagnosed with Alzheimer's Disease, and my dad (stepfather) was diagnosed with Parkinson's Disease. Both parents loved their iPhones, and used them often for contacting friends and relatives via phone calls and FaceTime.</p>
 
-<p>The default iPhone Contacts app list page looks like:</p>
+
+<h2>iPhone Contacts app</h2>
+
+<p>The default iPhone Contacts app list page looks like this:</p>
 
 <p><img src="/assets/ui-ux-design-journey/apple-ios-contacts-list@460x996.png" width="50%" alt="Screenshot of Apple iPhone Contacts app with list view" loading="lazy"></p>
-    
+
+
+<h2>iPhone Contacts app issues</h2>
+
 <p>Unfortunately, Alheimer's Disease, Parkinson's Disease, and Age-Related Macular Degeneration (AMD) often cause impairments making it hard to use the default iPhone Contacts app:</p>
 
 <ul>
@@ -126,6 +132,9 @@
 
 </ul>
 
+
+<h2>BoldContacts functionality</h2>
+
 <p>Thanks to all the attempts, I had a good idea of what a solution needed:</p>
 
 <ul>
@@ -139,6 +148,9 @@
     <li>Works with existing free WiFi, rather than requiring sign up for a new cellular contract.</li>
 
 </ul>
+
+
+<h2>Iterations for users</h2>
 
 I started coding and iterating with users and caregivers, and learned more about the user needs:
 
@@ -154,7 +166,10 @@ I started coding and iterating with users and caregivers, and learned more about
 
 </ul>
 
-I learned more about Apple iOS implementation:
+
+<h2>Iterations for Apple iOS</h2>
+
+I learned more about Apple iOS, the Swift programming language, and the SwiftUI framework:
 
 <ul>
 
@@ -168,7 +183,10 @@ I learned more about Apple iOS implementation:
 
 </ul>
 
-I iterated more and learned in many cases, very simple UI/UX works better:
+
+<h2>Simpler is better</h2>
+
+I iterated more and learned in many cases, very simple UI/UX tends to works better for the users:
 
 <ul>
 
@@ -187,6 +205,9 @@ I iterated more and learned in many cases, very simple UI/UX works better:
     <li>Some users have a very strong preference for their native language. And the number of native langauges is very high. Therefore, internationalization and localization are very important.</li>
 
 </ul>
+
+
+<h2>Success!</h2>
 
 <p>The result of all the attempts, research, iteration, and testing, is BoldContacts version 1:</p>
 
