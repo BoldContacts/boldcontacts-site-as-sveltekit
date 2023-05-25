@@ -77,7 +77,7 @@
 
 <p>Because most of the users were still able to use their physical phones to some degree, I searched for a physical device that worked more like a desktop phone. After talking with many of my friends, including friends from Facebook, I found the Facebook Portal:</p>
 
-<p><!-- img src="/assets/ui-ux-design-journey/facebook-portal-10-inch@960x782.png" width="50%" alt="Facebook Portal 10-inch product photo" loading="lazy" --></p>
+<p><img src="/assets/ui-ux-design-journey/facebook-portal-10-inch@960x782.png" width="50%" alt="Facebook Portal 10-inch product photo" loading="lazy"></p>
 
 <p>Unfortunately, the Facebook Portal is quite confusing, even to me.</p>
 
@@ -98,7 +98,7 @@
 
 <p>Because one of the issue correlations is that users are elderly, I searched for an elderly-specific solution. Eventually found the Grandpad, which provides a dedicated tablet, with a dedicated mobile connection, and elderly-specific software:</p>
 
-<p><!-- img src="/assets/ui-ux-design-journey/grandpad@960x700.png" width="50%" alt="Grandpad product photo" loading="lazy" --></p>
+<p><img src="/assets/ui-ux-design-journey/grandpad@960x700.png" width="50%" alt="Grandpad product photo" loading="lazy"></p>
 
 <p>The Grandpad works well, and the team is highly helpful. Unfortunately, it fell short for users' specific needs:</p>
 
