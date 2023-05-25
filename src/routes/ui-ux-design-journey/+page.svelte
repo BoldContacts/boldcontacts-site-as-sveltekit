@@ -37,7 +37,11 @@
 
 <h2>Attempt 1: Look for accessibility apps</h2>
 
-<p>I looked through many Apple App Store apps, to try to find any easier way of making phone calls and video calls. I found a bunch of potential alternative phone dialer apps and evaluated them.</p>
+<p>I looked through many Apple App Store apps, to try to find any easier way of making phone calls and video calls.</p>
+
+<p><img src="/assets/ui-ux-design-journey/apple-app-store@960x520.jpg" width="50%" alt="Apple App Store presentation with Apple CEO Tim Cook" loading="lazy"></p>
+
+<p>I found a bunch of potential alternative phone dialer apps and evaluated them:</p>
 
 <ul>
     
@@ -77,7 +81,7 @@
 
 <p>Because most of the users were still able to use their physical phones to some degree, I searched for a physical device that worked more like a desktop phone. After talking with many of my friends, including friends from Facebook, I found the Facebook Portal:</p>
 
-<p><img src="/assets/ui-ux-design-journey/facebook-portal-10-inch@960x782.png" width="50%" alt="Facebook Portal 10-inch product photo" loading="lazy"></p>
+<p><img src="/assets/ui-ux-design-journey/facebook-portal-10-inch@960x782.jpg" width="50%" alt="Facebook Portal 10-inch product photo" loading="lazy"></p>
 
 <p>Unfortunately, the Facebook Portal is quite confusing, even to me.</p>
 
@@ -98,7 +102,7 @@
 
 <p>Because one of the issue correlations is that users are elderly, I searched for an elderly-specific solution. Eventually found the Grandpad, which provides a dedicated tablet, with a dedicated mobile connection, and elderly-specific software:</p>
 
-<p><img src="/assets/ui-ux-design-journey/grandpad@960x700.png" width="50%" alt="Grandpad product photo" loading="lazy"></p>
+<p><img src="/assets/ui-ux-design-journey/grandpad@960x700.jpg" width="50%" alt="Grandpad product photo" loading="lazy"></p>
 
 <p>The Grandpad works well, and the team is highly helpful. Unfortunately, it fell short for users' specific needs:</p>
 
@@ -154,7 +158,7 @@
 
 <h2>Iterations for users</h2>
 
-I started coding and iterating with users and caregivers, and learned more about the user needs:
+<p>I started coding and iterating with users and caregivers, and learned more about the user needs:</p>
 
 <ul>
 
@@ -171,7 +175,7 @@ I started coding and iterating with users and caregivers, and learned more about
 
 <h2>Iterations for Apple iOS</h2>
 
-I learned more about Apple iOS, the Swift programming language, and the SwiftUI framework:
+<p>I learned more about Apple iOS, the Swift programming language, and the SwiftUI framework:</p>
 
 <ul>
 
@@ -188,7 +192,7 @@ I learned more about Apple iOS, the Swift programming language, and the SwiftUI 
 
 <h2>Simpler is better</h2>
 
-I iterated more and learned in many cases, very simple UI/UX tends to works better for the users:
+<p>I iterated more and learned in many cases, very simple UI/UX tends to works better for the users:</p>
 
 <ul>
 
@@ -213,18 +217,22 @@ I iterated more and learned in many cases, very simple UI/UX tends to works bett
 
 <p>The result of all the attempts, research, iteration, and testing, is BoldContacts version 1:</p>
 
-<p><img src="/assets/ui-ux-design-journey/boldcontacts-alice@460x996.png" width="50%"  alt="Screenshot of BoldContacts app with page view" loading="lazy"></p>
+<p><img src="/assets/ui-ux-design-journey/boldcontacts-alice@460x882.png" width="50%"  alt="Screenshot of BoldContacts app with page view" loading="lazy"></p>
 
-<p>The total UI/UX design journey took approximately three months:</p>
+<p>Key results:</p>
 
 <ul>
 
-    <li>Much of the time was iterating with users and caregivers.</li>
+    <li>The big main photo provides delight and recognition.</li>
 
-    <li>Because we found so many kinds of impairments, and so many needs for caregiver options, we believe that customization is important. Therefore we're making BoldContacts free open source, so any developer can use it, change it, and share improvements with everyone.</li>
+    <li>The bold font make the name easy to read.</li>
 
-    <li>Much of the learning is on the roadmap for BoldContacts version 2. Notable new capabilties will include simpler onboarding, an Android version, and a training video for caregivers.</li>
+    <li>The bold big buttons are easy to see and easy to tap.</li>
 
+    <li>The app uses one page layout, rather than multiple page layouts for a contacts list page that drills into a contacts person page. The app's entire functionality is always available on the page, and in addition navigation easier to understand and use.</li>
+
+    <li>Each contact has one preferred way to call, rather than many ways. The one way can be customized by the user or carer, to use a phone call, or FaceTime video, or any custom URL.</li>
+    
 </ul>
 
 </div>
