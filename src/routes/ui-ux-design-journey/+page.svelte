@@ -12,7 +12,9 @@
 
 <p>Unfortunately, both parents were having a harder and harder time using their iPhone Contacts app.</p>
 
-<p>To understand why, and to demonstration how BoldContacts came to be developed, it's helpful to start by looking at the typical iPhone Contacts app.</p>
+<p>I wanted to help them both, so I began to learn about their needs and abilities, and developed BoldContacts.</p>
+
+<p>To understand the journey, it can be helpful to start with a look at the typical iPhone Contacts app, and how it led to BoldContacts.</p>
 
 
 <h2>iPhone Contacts app</h2>
