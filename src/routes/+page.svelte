@@ -10,6 +10,8 @@
 
 <p><a href="/roadmap">BoldContacts roadmap of feature requests.</a></p>
 
+<p><a href="/training">Training is 100% free via video or in-person.</a></p>
+
 <p><a href="/skill-space">Skill space is a work in progress.</a></p>
 
 <p><a href="/ui-ux-design-journey">UI/UX design journey.</a></p>
