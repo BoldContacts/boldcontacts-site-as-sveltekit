@@ -6,7 +6,13 @@
     
 <p>BoldContacts has a UI/UX design journey that emphasizes the user's needs.</p>
 
-<p>The UI/UX design journey started when my mom (mother-in-law) was diagnosed with Alzheimer's Disease, and my dad (stepfather) was diagnosed with Parkinson's Disease. Both parents loved their iPhones, and used them often for contacting friends and relatives via phone calls and FaceTime.</p>
+<p>The UI/UX design journey started when my mother-in-law was diagnosed with Alzheimer's Disease, and my stepfather was diagnosed with Parkinson's Disease, and both parents were diagnosed with eyesight impairments.</p> 
+
+<p>Both parents loved using their iPhones, especially for keeping in touch with friends and relatives via phone calls and FaceTime.</p>
+
+<p>Unfortunately, both parents were having a harder and harder time using their iPhone Contacts app.</p>
+
+<p>To understand why, and to demonstration how BoldContacts came to be developed, it's helpful to start by looking at the typical iPhone Contacts app.</p>
 
 
 <h2>iPhone Contacts app</h2>
@@ -22,9 +28,9 @@
 
 <ul>
 
-    <li>Alzheimer's Disease often causes cognitive impairment, including memory issues. My mom started having trouble remembering how to unlock her iPhone, how to launch the default iPhone Contacts app, and how to connect via phone or FaceTime.</li>
+    <li>Alzheimer's Disease often causes cognitive impairment, including memory issues. My mother-in-law started having trouble remembering how to unlock her iPhone, how to launch the default iPhone Contacts app, and how to connect via phone or FaceTime.</li>
 
-    <li>Parkinson's Disease often causes motor impairment, including hand tremors. My dad started having trouble using the iPhone icons, how to navigate the default iPhone Contacts app, and how to accurately tap the contact item to dial.</li>
+    <li>Parkinson's Disease often causes motor impairment, including hand tremors. My stepfather started having trouble using the iPhone icons, trouble navigating the iPhone Contacts app, and trouble tapping the various buttons and links.</li>
 
     <li>Age-Related Macular Degeneration often causes vision impairment, including blurred vision and less than 20/20 vision. My folks started having a hard time seeing the iPhone text, even with Apple's accessibility font scaling turned up.</li>
 
@@ -66,9 +72,9 @@
 
 <ul>
     
-    <li>For example, my mom had never used voice control before, and didn't understand the overall concept of talking to the room.</li>
+    <li>For example, my mother-in-law had never used voice control before, and didn't understand the overall concept of talking to the room.</li>
 
-    <li>For example, my dad had used Amazon Alexa voice control for years to play his music. But he lost the ability to remember how to trigger Alexa.</li>
+    <li>For example, my stepfather had used Amazon Alexa voice control for years to play his music. But he lost the ability to remember how to trigger Alexa.</li>
 
     <li>Key learning: a physical device with touch is easier to understand than room-wide voice control.</li>
 
@@ -124,17 +130,15 @@
     
 <p><img src="/assets/ui-ux-design-journey/apple-ios-contacts-page@460x996.png"  width="45%" alt="Screenshot of Apple iPhone Contacts app with page view" loading="lazy"></p>
 
-<p>The page has quick wins:</p>
+<p>When I started sketching, I tried these steps first:</p>
 
 <ul>
 
-    <li>Drop unnecessary information, such as the postal address map section, email address section, birthday section, etc.</li>
+    <li>Drop unneeded information, such as the postal address map section, email address section, birthday section, etc.</li>
 
-    <li>Excise duplicity, such as the page showing a FaceTime icon near the top, plus the "FaceTime" area.</li>
+    <li>Remove duplicity, such as the page showing a FaceTime icon near the top, plus the "FaceTime" area.</li>
 
-    <li>Runs on any typical off-the-shelf iPhone and iPad. These match what caregivers know and use.</li>
-
-    <li>Drop action links with labels "Send Message" and "Share Contact", etc., because they're not necessary, and because most of the target users don't understand that those action links are equivalent to buttons.</li>
+    <li>Don't use links, such as "Send Message" and "Share Contact", because users didn't understand that the links are tappable.</li>
 
 </ul>
 
@@ -145,13 +149,13 @@
 
 <ul>
 
-    <li>Bold big text that is especially easy to see. These assist with eyesight problems.</li>
+    <li>Bold big text that is especially easy to see, because this helps people with eyesight problems.</li>
 
-    <li>Bold big buttons that are especially easy to tap. These assist with hand tremor problems.</li>
+    <li>Bold big buttons that are especially easy to tap, because these help users with tremor problems.</li>
 
-    <li>Runs on any typical off-the-shelf iPhone and iPad. These match what caregivers know and use.</li>
+    <li>Usable on a typical iPhone and iPad, because these match what caregivers know and use.</li>
 
-    <li>Works with existing free WiFi, rather than requiring sign up for a new cellular contract.</li>
+    <li>Usable with existing free WiFi, rather than requiring sign up for a new cellular contract.</li>
 
 </ul>
 
@@ -206,9 +210,9 @@
 
     <li>Alphabetic sort by first name is easier to understand than alphabetic sort by last name.</li>
 
-    <li>Each contact typically has one preferred contact method, such as always via a phone call, or always via FaceTime, or always via.</li>
+    <li>Each contact person typically has one preferred contact method, such as always via a phone call, or always via FaceTime.</li>
 
-    <li>Some users have a very strong preference for their native language. And the number of native languages is very high. Therefore, internationalization and localization are very important.</li>
+    <li>Some users have a very strong preference for their native language. Therefore, internationalization and localization are very important.</li>
 
 </ul>
 
