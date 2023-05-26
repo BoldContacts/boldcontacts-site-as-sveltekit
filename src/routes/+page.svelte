@@ -6,15 +6,11 @@
 
 <p><a href="https://apps.apple.com/us/app/boldcontacts/id6443335501">BoldContacts on Apple App Store is now free!</a></p>
 
-<p><a href="/uk-global-talent-visa">UK Global Talent Visa - please help if you can.</a></p>
+<p><a href="/uk-global-talent-visa">UK Global Talent Visa - please help if you can</a></p>
 
-<p><a href="/roadmap">BoldContacts roadmap of feature requests.</a></p>
+<p><a href="/skill-space">Skill space is a work in progress</a></p>
 
-<p><a href="/training">Training is 100% free via video or in-person.</a></p>
-
-<p><a href="/skill-space">Skill space is a work in progress.</a></p>
-
-<p><a href="/ui-ux-design-journey">UI/UX design journey.</a></p>
+<p><a href="/ui-ux-design-journey">UI/UX design journey</a></p>
 
 
 <h2>What is BoldContacts?</h2>
@@ -163,16 +159,5 @@
 </ul>
 
 -->
-
-
-<h2>Legal</h2>
-
-<p>BoldContacts™ is a trademark of Joel Parker Henderson.</p>
-
-<p>Copyright © 2022-2023 by Joel Parker Henderson.</p>
-
-<p>The purpose of the trademark and copyright is to help protect the app and its users from identity theft, or fraud, or hacking.</p>
-
-<p>The app saves brief anonymous usage data in your "Documents" directory in a file named "BoldContacts.txt". The data is for diagnostics and disability assistance.</p>
 
 </div>
