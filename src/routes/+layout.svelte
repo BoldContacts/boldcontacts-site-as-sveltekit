@@ -7,7 +7,7 @@
             <a class="nav-a" href="https://apps.apple.com/us/app/boldcontacts/id6443335501">App</a> 
             <a class="nav-a" href="/training">Training</a> 
             <a class="nav-a" href="/roadmap">Roadmap</a> 
-            <a class="nav-a" href="https://github.com/boldcontacts">GitHub</a> 
+            <a class="nav-a" href="https://github.com/orgs/BoldContacts/repositories">GitHub</a> 
             <a class="nav-a" href="mailto:info@boldcontacts.org">Email</a>
         </nav>
     </header>  
