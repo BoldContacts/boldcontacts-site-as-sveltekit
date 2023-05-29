@@ -27,7 +27,10 @@
 
     <blockquote><p>"I’m a mental health advocate in Wales and I work to raise awareness of the importance of mental health across the UK. I’ve been interviewed by the BBC a number of times on various mental health topics. I have also taken part in a number of discussions and given speeches at national events, contributed to podcasts and written articles based on my experiences.</p><p>I believe Joel and BoldContacts will be beneficial to our country."</p></blockquote>
     - <cite>Hedydd Elias, Mental Health Speaker, National Eisteddfod of Wales</cite>
-    
-</div>
 
-<br><br><br><!-- todo: delete this line -->
+    <h2>Well-Being</h2>
+        
+    <blockquote><p>"I’m a creative free dance teacher and director of a local well-being hub. I am currently working with elders some of whom are living with dementia in the community and in local nursing and care homes. In addition to the potential benefits of Joel’s Bold Contact’s app to help remove barriers to social isolation, I am currently working on a project to support those living with dementia, their carers and families to create personal playlists of music as a supportive intervention. One of the main challenges we face is having easy to use technology to store and access this music. Joel is offering technology and training that may be able to help with this kind of work, and with similar kinds of work by related groups."</p></blockquote>
+    - <cite>Alexander Holloway, The Joyful Life Guide</cite>
+
+</div>
