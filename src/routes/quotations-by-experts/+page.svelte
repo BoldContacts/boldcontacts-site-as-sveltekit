@@ -39,7 +39,7 @@
 Thank you so much for helping me and this project. If you want to know more about this, please contact me any time at joel@joeparkerhenderson.com or mobile +1-415-317-2700.
 
 
-<h1>Quotations thus far</h1>
+<h1>Quotations by experts thus far</h1>
     
 
 <h2>Health Innovation Service</h2>
