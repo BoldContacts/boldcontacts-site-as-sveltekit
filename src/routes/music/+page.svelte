@@ -1,8 +1,8 @@
 <h1>BoldContacts music</h1>
 
-<p>BoldContacts can connect to many popular music services, including YouTube, Spotify, Apple Music, and more.</p>
+<p>BoldContacts can connect to many popular music services, including YouTube Music, Spotify Music, Apple Music, and more.</p>
     
-<img src="/assets/explainers/play/1600x1660.png" width="50%" alt="BoldContacts connects to music services including YouTube, Spotify, Apple Music" loading="lazy">
+<img src="/assets/explainers/music/800x830.png" width="50%" alt="BoldContacts connects to music services" loading="lazy">
 
 
 <h2>How to link to music</h2>
@@ -20,19 +20,19 @@
 <ul>
 
     <li>
-        <b>YouTube Video:</b>
+        <b>YouTube Music:</b>
         <br>
-        <a href="https://www.youtube.com/watch?v=jenWdylTtzs">https://www.youtube.com/watch?v=jenWdylTtzs</a>
+        <a href="https://music.youtube.com/watch?v=v1HDt1tknTc">https://music.youtube.com/watch?v=v1HDt1tknTc</a>
     </li>
 
     <li>
-        <b>Spotify Playlist:</b>
+        <b>Spotify Music:</b>
         <br>
         <a href="https://open.spotify.com/track/4pbG9SUmWIvsROVLF0zF9s">https://open.spotify.com/track/4pbG9SUmWIvsROVLF0zF9s</a>
     </li>
 
     <li>
-        <b>Apple Music Song:</b>
+        <b>Apple Music:</b>
         <br>
         <a href="https://music.apple.com/us/album/i-want-to-hold-your-hand/1440833098?i=1440833542">https://music.apple.com/us/album/i-want-to-hold-your-hand/1440833098?i=1440833542</a>
     </li>
