@@ -46,4 +46,4 @@
 
 </ol>
 
-Then quit BoldContacts and relaunch it; this tells BoldContacts to refresh your contact list, including your new contact. As an aside, a future release of BoldContacts will add automatic refresh.
+Then quit BoldContacts and relaunch it. This tells BoldContacts to refresh your contact list, including your new contact. As an aside, a future release of BoldContacts will add automatic refresh.
