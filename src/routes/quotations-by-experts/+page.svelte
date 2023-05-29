@@ -42,7 +42,7 @@ Thank you so much for helping me and this project. If you want to know more abou
 <h1>Quotations by experts thus far</h1>
     
 
-<h2>Health Innovation Service</h2>
+<h2>Health Innovation</h2>
 
 <blockquote><p>"Care City is a health innovation service based in North East London, and trialling new health innovations across the UK. We were are part of the NHS Testbed. One of our recent projects is working on a dementia wayfinding app to help those with dementia to be able to navigate independently using an app and AR (Augmented Reality).</p><p>We would really like to work with someone as experienced as Joel to get his insights on ensuring the user interface is as simple as possible for this vulnerable customer group. He has already developed an app to support dementia users make video calls in a very simple and clear dementia-friendly way. We would also really like to work with him to develop this product so it can be used freely by social care providers to allow more isolated people in care homes to talk to their relatives who may be around the world."</p></blockquote>
 - <cite>Ben Williams, Senior Project Lead, Care City Innovation C.I.C.</cite>
@@ -60,7 +60,7 @@ Thank you so much for helping me and this project. If you want to know more abou
 - <cite>Laura Hackett, Hywel Dda Health Board, Bronglais Hospital</cite>
 
 
-<h2>Mental Health Advocate</h2>
+<h2>Mental Health</h2>
 
 <blockquote><p>"I’m a mental health advocate in Wales and I work to raise awareness of the importance of mental health across the UK. I’ve been interviewed by the BBC a number of times on various mental health topics. I have also taken part in a number of discussions and given speeches at national events, contributed to podcasts and written articles based on my experiences.</p><p>I believe Joel and BoldContacts will be beneficial to our country."</p></blockquote>
 - <cite>Hedydd Elias, Mental Health Speaker, National Eisteddfod of Wales</cite>
