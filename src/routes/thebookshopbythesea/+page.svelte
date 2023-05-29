@@ -1,3 +1,5 @@
+<h1>MOCKUP - DRAFT - UNPUBLISHED</h1>
+
 <img src="/thebookshopbythesea/explainer.png" alt="BoldContacts & The Bookshop By The Sea" loading="lazy">
 
 <h1>BoldContacts + The Bookshop By The Sea</h1>
