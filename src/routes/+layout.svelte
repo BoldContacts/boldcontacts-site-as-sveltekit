@@ -1,7 +1,7 @@
 <script>import "../app.postcss";</script>
   
-<div class="max-w-6xl m-auto">
-    <header class="max-w-2xl m-auto border-b border-black mb-8 py-4">
+<div class="max-w-screen-sm m-auto">
+    <header class="m-auto border-b border-black mb-8 py-4">
         <nav class="flex justify-between">
             <a class="nav-a" href="/"><b>BoldContacts</b></a>
             <a class="nav-a" href="https://apps.apple.com/us/app/boldcontacts/id6443335501">App</a> 
@@ -11,10 +11,10 @@
             <a class="nav-a" href="mailto:info@boldcontacts.org">Email</a>
         </nav>
     </header>  
-    <main class="mx-8">
+    <main class="">
         <slot></slot>
     </main>
-    <footer class="max-w-2xl m-auto border-t border-black my-8 py-4">
+    <footer class="m-auto border-t border-black my-8 py-4">
         <nav class="flex justify-between">
             <a class="nav-a" href="/"><b>BoldContacts</b></a>
             <a class="nav-a" href="https://apps.apple.com/us/app/boldcontacts/id6443335501">App</a> 
