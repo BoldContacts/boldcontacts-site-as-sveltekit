@@ -17,7 +17,7 @@
 
 <p>The app displays each contact with a big photo, big font, and big buttons.</p>
 
-<img src="/assets/pexels/pexels-andrea-piacquadio-3791664@1200x600.jpg" alt="People using BoldContacts on a phone" loading="lazy">
+<p><img src="/assets/pexels/pexels-andrea-piacquadio-3791664@1200x600.jpg" alt="People using BoldContacts on a phone" loading="lazy"></p>
 
 <p>A phone button means "contact this person now". This button connects you by using your choice of video, or phone, or email, or message, or custom URL. A caregiver can customize this by using the Apple iOS Contacts app.</p>
     
@@ -61,6 +61,15 @@
 <img src="/assets/pexels/pexels-nataliya-vaitkevich-7235805@1200x600.jpg" alt="World globe held in hands" loading="lazy">
 
 <p>The app includes Afrikaans, Amharic, Arabic, Armenian, Assamese, Azerbaijani, Bangla, Basque, Belarusian, Bosnian, Bulgarian, Catalan, Chinese, Corsican, Croatian, Danish, Dutch, English, Esperanto, Finnish, French, Galician, German, Greek, Gujarati, Hawaiian, Hebrew, Hindi, Hmong, Icelandic, Igbo, Indonesian, Irish, Italian, Japanese, Javanese, Kannada, Khmer, Korean, Lao, Latin, Lingala, Lithuanian, Malay, Maori, Marathi, Meiteilon, Nepali, Norwegian, Persian, Polish, Portuguese, Punjabi, Quechua, Russian, Samoan, Sanskrit, Scots Gaelic, Shona, Slovenian, Swahili, Swedish, Tamil, Telegu, Thai, Turkish, Turkmen, Ukrainian, Urdu, Uyghur, Uzbek, Vietnamese, Welsh, Xhosa, Yiddish, Yoruba, Zulu.</p>
+
+
+<h2>Health and Wellness</h2>
+
+<p>The app can connect to health and wellness videos, such as for appropriate exercise, occupational therapy, and medical recovery.</p>
+
+<img src="/assets/pexels/pexels-mikhail-nilov-7500699@1200x600.jpg" alt="People exercising" loading="lazy">
+
+<p>Some ideas for health and wellness video connections include senior-oriented exercises, impairment-aware activities, chair yoga, tai chi, balance training, range-of-motion stretching, and the like.</p>
 
 
 <h2>Goals</h2>

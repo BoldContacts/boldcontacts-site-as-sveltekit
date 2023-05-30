@@ -5,7 +5,7 @@
 <img src="/assets/explainers/video/800x830.png" width="50%" alt="BoldContacts connects to video services" loading="lazy">
 
 
-<h2>How to link to video</h2>
+<h2>How to link to a video</h2>
 
 <p>Many major video services have ways to link directly to an artist, or album, or song, or video, or playlist.</p>
 

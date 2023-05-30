@@ -1,4 +1,4 @@
-<img src="/assets/pexels/pexels-mikhail-nilov-7500699@1200x600.jpg" alt="People exercising">
+<img src="/assets/pexels/pexels-mikhail-nilov-7500699@1200x600.jpg" alt="People exercising" loading="lazy">
 
 <h1>BoldContacts Exercise</h1>
 
@@ -42,7 +42,7 @@
 
     <li>Tap the "+" icon to create a new contact.</li>
 
-    <li>Type any name you want, such as "Wizard of Oz".</li>
+    <li>Type any name you want, such as "Exercise".</li>
 
     <li>Upload any photo you want, such as a photo of the video that you download from the internet.</li>
 
