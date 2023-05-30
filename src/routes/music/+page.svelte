@@ -1,4 +1,4 @@
-<h1>BoldContacts music</h1>
+<h1>BoldContacts Music</h1>
 
 <p>BoldContacts can connect to many popular music services, including YouTube Music, Spotify Music, Apple Music, and more.</p>
     
@@ -51,7 +51,7 @@
 
     <li>Type any name you want, such as "The Beatles".</li>
 
-    <li>Upload any photo you want, such as a photo of the Beatles that you download from the internet.</li>
+    <li>Upload any photo you want, such as a photo of The Beatles that you download from the internet.</li>
 
     <li>Add the URL link to your music.</li>
 

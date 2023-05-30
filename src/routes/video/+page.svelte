@@ -1,4 +1,4 @@
-<h1>BoldContacts video</h1>
+<h1>BoldContacts Video</h1>
 
 <p>BoldContacts can connect to many popular video services, such as YouTube.</p>
     
