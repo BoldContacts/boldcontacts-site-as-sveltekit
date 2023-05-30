@@ -54,6 +54,24 @@
 </ol>
 
 
+<h2>Music &amp; Movies</h2>
+
+<p>The app can connect to music and movies, such as via YouTube, Spotify, Apple Music, and Amazon Prime Video.</p>
+
+<img src="/assets/pexels/pexels-rdne-stock-project-7020687@1200x600.jpg" alt="Person playing guitar with records and a record player" loading="lazy">
+
+<p>Some ideas for music connections include favorite songs, albums, playlists, genres, and streaming radio stations. Some ideas for movie connections include blockbuster movies on Amazon Prime Video, family home movies that are uploaded to YouTube, and streaming TV stations.</p>
+
+
+<h2>Health &amp; Wellness</h2>
+
+<p>The app can connect to health and wellness videos, such as for appropriate exercise, occupational therapy, and medical recovery.</p>
+
+<img src="/assets/pexels/pexels-mikhail-nilov-7500699@1200x600.jpg" alt="People exercising" loading="lazy">
+
+<p>Some ideas for health and wellness video connections include senior-oriented exercises, impairment-aware activities, chair yoga, tai chi, balance training, range-of-motion stretching, and the like.</p>
+
+
 <h2>Localization and Internationalization</h2>
 
 <p>The app provides localization and internationalization for many worldwide languages. We welcome help improving the phrasings and translations, and adding more languages and examples.</p>
@@ -63,13 +81,6 @@
 <p>The app includes Afrikaans, Amharic, Arabic, Armenian, Assamese, Azerbaijani, Bangla, Basque, Belarusian, Bosnian, Bulgarian, Catalan, Chinese, Corsican, Croatian, Danish, Dutch, English, Esperanto, Finnish, French, Galician, German, Greek, Gujarati, Hawaiian, Hebrew, Hindi, Hmong, Icelandic, Igbo, Indonesian, Irish, Italian, Japanese, Javanese, Kannada, Khmer, Korean, Lao, Latin, Lingala, Lithuanian, Malay, Maori, Marathi, Meiteilon, Nepali, Norwegian, Persian, Polish, Portuguese, Punjabi, Quechua, Russian, Samoan, Sanskrit, Scots Gaelic, Shona, Slovenian, Swahili, Swedish, Tamil, Telegu, Thai, Turkish, Turkmen, Ukrainian, Urdu, Uyghur, Uzbek, Vietnamese, Welsh, Xhosa, Yiddish, Yoruba, Zulu.</p>
 
 
-<h2>Health and Wellness</h2>
-
-<p>The app can connect to health and wellness videos, such as for appropriate exercise, occupational therapy, and medical recovery.</p>
-
-<img src="/assets/pexels/pexels-mikhail-nilov-7500699@1200x600.jpg" alt="People exercising" loading="lazy">
-
-<p>Some ideas for health and wellness video connections include senior-oriented exercises, impairment-aware activities, chair yoga, tai chi, balance training, range-of-motion stretching, and the like.</p>
 
 
 <h2>Goals</h2>

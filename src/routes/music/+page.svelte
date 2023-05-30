@@ -1,3 +1,5 @@
+<img src="/assets/pexels/pexels-rdne-stock-project-7020687@1200x600.jpg" alt="Person playing guitar with records and a record player" loading="lazy">
+
 <h1>BoldContacts Music</h1>
 
 <p>BoldContacts can connect to many popular music services, including YouTube Music, Spotify Music, Apple Music, and more.</p>
