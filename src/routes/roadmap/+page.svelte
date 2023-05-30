@@ -1,6 +1,6 @@
 <div class="max-w-2xl m-auto">
 
-    <img src="/assets/pexels/pexels-andrea-piacquadio-3791664@2400x1200.jpg" alt="People using BoldContacts on a phone" loading="lazy">
+    <img src="/assets/pexels/pexels-andrea-piacquadio-3791664@1200x600.jpg" alt="People using BoldContacts on a phone" loading="lazy">
     
     <h1>Roadmap</h1>
         
