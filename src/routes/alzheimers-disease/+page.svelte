@@ -1,4 +1,4 @@
-<img src="/assets/pexels/pexels-rdne-stock-project-6129502@1200x600.jpg" alt="People exercising" loading="lazy">
+<img src="/assets/pexels/pexels-rdne-stock-project-6129502/@1200x600.jpg" alt="People exercising" loading="lazy">
 
 <h1>Alzheimer's Disease</h1>
 

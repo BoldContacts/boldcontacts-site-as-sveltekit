@@ -1,6 +1,6 @@
 <div class="max-w-2xl m-auto">
 
-    <img src="/assets/pexels/pexels-kampus-production-7551617@1200x600.jpg" alt="Happy family uses a tablet computer">
+    <img src="/assets/pexels/pexels-kampus-production-7551617/@1200x600.jpg" alt="Happy family uses a tablet computer">
     
     <h1>Skill space</h1>
         

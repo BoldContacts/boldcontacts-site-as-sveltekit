@@ -1,4 +1,4 @@
-<img src="/assets/pexels/pexels-mikhail-nilov-7500699@1200x600.jpg" alt="People exercising" loading="lazy">
+<img src="/assets/pexels/pexels-mikhail-nilov-7500699/@1200x600.jpg" alt="People exercising" loading="lazy">
 
 <h1>BoldContacts Exercise</h1>
 
