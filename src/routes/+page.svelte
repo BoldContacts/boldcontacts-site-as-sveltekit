@@ -60,7 +60,7 @@
 
 <img src="/assets/pexels/pexels-rdne-stock-project-7020687@1200x600.jpg" alt="Person playing guitar with records and a record player" loading="lazy">
 
-<p>Some ideas for music contacts include favorite songs, albums, playlists, genres, and streaming radio stations. Some ideas for movie contacts include blockbuster movies on Amazon Prime Video, family home movies that are uploaded to YouTube, and streaming TV stations.</p>
+<p>Potential music connections include favorite songs, albums, playlists, genres, and streaming radio stations. Potential movie connections include blockbuster movies on Amazon Prime Video, family home movies that are uploaded to YouTube, and streaming TV stations.</p>
 
 
 <h2>Health &amp; Wellness</h2>
@@ -69,7 +69,7 @@
 
 <img src="/assets/pexels/pexels-mikhail-nilov-7500699@1200x600.jpg" alt="People exercising" loading="lazy">
 
-<p>Some ideas for health and wellness connections include senior-oriented exercises, impairment-aware activities, chair yoga, tai chi, balance training, range-of-motion stretching, and the like.</p>
+<p>Potential health and wellness connections include senior-oriented exercises, impairment-aware activities, chair yoga, tai chi, balance training, range-of-motion stretching, and the like.</p>
 
 
 <h2>Medical &amp; Clinical</h2>
@@ -78,7 +78,7 @@
 
 <img src="/assets/pexels/pexels-rdne-stock-project-6129502@1200x600.jpg" alt="People exercising" loading="lazy">
 
-<p>Some ideas for medical contacts include doctors, nurses, and outpatient follow up providers, all of whom may be able to use telemedicine to help support in-person medical care. Some ideas for clinical researchers include laboratory primary investigators who want patients to check in about updates to studies.</p>
+<p>Potential medical connections include doctors, nurses, and outpatient follow up providers, all of whom may be able to use telemedicine to help support in-person medical care. Some ideas for clinical researchers include laboratory primary investigators who want patients to check in about updates to studies.</p>
 
 
 <h2>Localization and Internationalization</h2>
