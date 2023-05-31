@@ -91,7 +91,6 @@
 
 
 
-
 <h2>Goals</h2>
 
 <p>Right now, BoldContacts is simple. In the future, our goals include adding capabilities as we learn more about what people want and need.</p>
@@ -157,6 +156,8 @@
 <h2>Medical introductions</h2>
 
 <p><a href="/alzheimers-disease/">Alzheimer's disease</a></p>
+
+<p><a href="/alzheimers-disease/">Age-related macular degeneration</a></p>
 
 <p><a href="/amyotrophic-lateral-sclerosis/">Amyotrophic lateral sclerosis</a></p>
 

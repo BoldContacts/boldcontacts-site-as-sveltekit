@@ -1,4 +1,4 @@
-<div class="max-w-2xl m-auto">
+<img src="/assets/pexels/pexels-rdne-stock-project-6129502@1200x600.jpg" alt="People exercising" loading="lazy">
 
 <h1>Parkinson's Disease</h1>
 
@@ -53,5 +53,3 @@
     <p>Remember, it's important to be open and honest with your doctor about any concerns or questions you may have about Parkinson's Disease. Your doctor can provide you with the information and support you need to manage the disease and maintain the best quality of life possible.</p>
 
 </span>
-
-</div>
