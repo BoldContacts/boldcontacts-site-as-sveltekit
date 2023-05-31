@@ -1,12 +1,10 @@
 <img src="/assets/pexels/pexels-mikhail-nilov-7500699/@1200x600.jpg" alt="People exercising" loading="lazy">
 
-<h1>BoldContacts Exercise</h1>
+<h1>Health &amp; Wellness</h1>
 
-<p>BoldContacts can help people exercise more, by making it easier for people to connect to exercise videos, occupational therapy videos, balance training videos, and medical recovery videos.</p>
+<p>Potential health and wellness connections include videos for home exercise, balance training videos, range-of-motion stretching, chair yoga, senior-friendly tai chi videos, impairment-aware activities, occupational therapy guides, medical recovery videos. and the like.</p>
 
-<p>Exercise in the elderly is proven to help increase mobility, muscle tone, balance capabilities, and longevity.</p>
-
-<p>Exercise also helps reduce the risk of future injuries, such as from accidental falls, which can cause hip fractures.</p> 
+<p>For example, daily exercise and balance training are both proven to help elderly people increase mobility, muscle tone, steadiness, and longevity. These improvements cap help reduce the risk of future injuries, such as from ankle sprains, accidental falls, hip fractures, and spine compressions.</p> 
 
 
 <h2>How to link to a exercise video</h2>

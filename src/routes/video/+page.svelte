@@ -1,6 +1,6 @@
 <h1>BoldContacts Video</h1>
 
-<p>BoldContacts can connect to many popular video services, such as YouTube.</p>
+<p>BoldContacts can connect to many popular video services, such as YouTube, Amazon Prime Video, and Google TV.</p>
     
 <img src="/assets/explainers/video/800x830.png" width="50%" alt="BoldContacts connects to video services" loading="lazy">
 
@@ -15,17 +15,6 @@
 
 <p>Each video service has its own way link to video by using a URL. You will need to use whichever way your preferred service uses.</p>
 
-<p>Example URL format:</p>
-
-<ul>
-
-    <li>
-        <b>YouTube Video:</b>
-        <br>
-        <a href="https://www.youtube.com/watch?v=PP5oQ0_xdow">https://www.youtube.com/watch?v=PP5oQ0_xdow</a>
-    </li>
-
-</ul>
 
 
 <h2>How to create a contact</h2>

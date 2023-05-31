@@ -56,18 +56,18 @@
 
 <h2>Music &amp; Movies</h2>
 
-<p>The app can connect to music and movies, such as via YouTube, Spotify, Apple Music, and Amazon Prime Video.</p>
+<p>The app can connect to music and movies, such as via YouTube, Spotify, Apple Music, Amazon Prime Video, and Google TV.</p>
 
-<img src="/assets/pexels/pexels-rdne-stock-project-7020687/@1200x600.jpg" alt="Person playing guitar with records and a record player" loading="lazy">
+<a href="/music-and-movies"><img src="/assets/pexels/pexels-rdne-stock-project-7020687/@1200x600.jpg" alt="Person playing guitar with records and a record player" loading="lazy"></a>
 
-<p>Potential music connections include favorite songs, albums, playlists, genres, and streaming radio stations. Potential movie connections include blockbuster movies on Amazon Prime Video, family home movies that are uploaded to YouTube, and streaming TV stations.</p>
+<p>Potential music connections include favorite songs, albums, playlists, genres, and streaming radio stations. Potential movie connections include blockbuster movies on Amazon Prime Video, family home movies that are uploaded to YouTube, and streaming TV channels.</p>
 
 
 <h2>Health &amp; Wellness</h2>
 
 <p>The app can connect to health and wellness videos, such as for appropriate exercise, occupational therapy, and medical recovery.</p>
 
-<img src="/assets/pexels/pexels-mikhail-nilov-7500699/@1200x600.jpg" alt="People exercising" loading="lazy">
+<a href="/health-and-wellness"><img src="/assets/pexels/pexels-mikhail-nilov-7500699/@1200x600.jpg" alt="People exercising" loading="lazy"></a>
 
 <p>Potential health and wellness connections include senior-oriented exercises, impairment-aware activities, chair yoga, tai chi, balance training, range-of-motion stretching, and the like.</p>
 
