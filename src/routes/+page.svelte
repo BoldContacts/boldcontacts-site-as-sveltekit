@@ -78,7 +78,7 @@
 
 <img src="/assets/pexels/pexels-mikhail-nilov-7500699@1200x600.jpg" alt="People exercising" loading="lazy">
 
-<p>Some ideas for medical contacts include doctors, nurses, therapists, who are able to use telemedicine to help support in-person medical care. Some ideas for clinical researchers include laboratory primary investigators who want patients to check in about updates to studies.</p>
+<p>Some ideas for medical contacts include doctors, nurses, and outpatient follow up providers, all of whom may be able to use telemedicine to help support in-person medical care. Some ideas for clinical researchers include laboratory primary investigators who want patients to check in about updates to studies.</p>
 
 
 <h2>Localization and Internationalization</h2>
