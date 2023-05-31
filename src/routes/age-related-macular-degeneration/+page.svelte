@@ -18,9 +18,9 @@
     
     <ul>
     
-    <li>Dry AMD: This is the most common form of AMD, accounting for about 90% of cases. In dry AMD, the macula gradually thins and breaks down over time. Small yellow deposits called drusen accumulate in the macula, impairing its function. Dry AMD progresses slowly and may result in mild to moderate vision loss.</li>
-    
-    <li>Wet AMD: Although less common, wet AMD is more severe and can cause rapid and severe vision loss. It occurs when abnormal blood vessels grow under the macula and leak fluid or blood, leading to scarring and distortion of the macula. Wet AMD can cause significant central vision loss and may lead to legal blindness if not treated promptly.</li>
+        <li>Dry AMD: This is the most common form of AMD, accounting for about 90% of cases. In dry AMD, the macula gradually thins and breaks down over time. Small yellow deposits called drusen accumulate in the macula, impairing its function. Dry AMD progresses slowly and may result in mild to moderate vision loss.</li>
+        
+        <li>Wet AMD: Although less common, wet AMD is more severe and can cause rapid and severe vision loss. It occurs when abnormal blood vessels grow under the macula and leak fluid or blood, leading to scarring and distortion of the macula. Wet AMD can cause significant central vision loss and may lead to legal blindness if not treated promptly.</li>
     
     </ul>
     
@@ -28,17 +28,19 @@
     
     <p>The exact cause of AMD is not fully understood, but several risk factors have been identified, including:</p>
     
-    <li>Age: AMD is more common in individuals over the age of 50, and the risk increases with age.</li>
+    <ul>
+
+        <li>Age: AMD is more common in individuals over the age of 50, and the risk increases with age.</li>
     
-    <li>Genetics: Certain genetic variations are associated with an increased risk of developing AMD.</li>
+        <li>Genetics: Certain genetic variations are associated with an increased risk of developing AMD.</li>
     
-    <li>Smoking: Smoking tobacco significantly increases the risk of developing AMD.</li>
+        <li>Smoking: Smoking tobacco significantly increases the risk of developing AMD.</li>
     
-    <li>Family History: Having a family history of AMD increases the likelihood of developing the condition.</li>
+        <li>Family History: Having a family history of AMD increases the likelihood of developing the condition.</li>
     
-    <li>Race: AMD is more prevalent among Caucasians.</li>
+        <li>Race: AMD is more prevalent among Caucasians.</li>
     
-    <li>Cardiovascular Disease: Factors such as high blood pressure, high cholesterol, and obesity may increase the risk of AMD.</li>
+        <li>Cardiovascular Disease: Factors such as high blood pressure, high cholesterol, and obesity may increase the risk of AMD.</li>
     
     </ul>
     
