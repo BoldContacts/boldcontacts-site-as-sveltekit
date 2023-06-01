@@ -4,7 +4,7 @@
 
 <span data-chatgpt-prompt="Summarize age-related macular degeneration (ELI5)">
 
-    <p>Amyotrophic lateral sclerosis (AMD), also known as Lou Gehrig's disease, is a disease that affects the nerve cells in the brain and spinal cord that control movement. Over time, these nerve cells break down and die, causing muscle weakness and stiffness that can spread to other parts of the body. There is no cure for AMD, but treatments can help manage symptoms and slow the progression of the disease. The cause of AMD is not fully understood, but it is believed to be a combination of genetic and environmental factors.</p>
+    <p>Age-related macular degeneration (AMD) is a condition that affects the part of the eye called the macula, which is responsible for central vision. It mostly happens in older people. In AMD, the macula gets damaged over time. It's a bit like having a blurry spot in the middle of your vision. It doesn't cause total blindness, but it can make it harder to do everyday activities like reading, driving, or even recognizing people's faces.</p>
 
 </span>
 
