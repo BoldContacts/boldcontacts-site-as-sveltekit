@@ -1,4 +1,4 @@
-<img src="/assets/pexels/pexels-rdne-stock-project-6129502/@1200x600.jpg" alt="People exercising" loading="lazy">
+<img src="/assets/pexels/pexels-rdne-stock-project-6129502/@1200x600.jpg" alt="Doctors, nurses, and medical workers" loading="lazy">
 
 <h1>Parkinson's Disease</h1>
 

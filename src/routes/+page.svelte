@@ -76,7 +76,7 @@
 
 <p>The app can connect to medical providers and clinical researchers by using telemedicine conferencing, such as via Zoom, Teams, and Jitsi.</p>
 
-<img src="/assets/pexels/pexels-rdne-stock-project-6129502/@1200x600.jpg" alt="People exercising" loading="lazy">
+<img src="/assets/pexels/pexels-rdne-stock-project-6129502/@1200x600.jpg" alt="Doctors, nurses, and medical workers" loading="lazy">
 
 <p>Potential medical connections include doctors, nurses, and outpatient follow up providers, all of whom may be able to use telemedicine to help support in-person medical care. Some ideas for clinical researchers include laboratory primary investigators who want patients to check in about updates to studies.</p>
 
@@ -160,6 +160,8 @@
 <p><a href="/age-related-macular-degeneration/">Age-related macular degeneration</a></p>
 
 <p><a href="/amyotrophic-lateral-sclerosis/">Amyotrophic lateral sclerosis</a></p>
+
+<p><a href="/frontotemporal-dementia/">Frontotemporal dementia</a></p>
 
 <p><a href="/multiple-sclerosis/">Multiple sclerosis</a></p>
 

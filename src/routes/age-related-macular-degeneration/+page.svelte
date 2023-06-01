@@ -1,4 +1,4 @@
-<img src="/assets/pexels/pexels-rdne-stock-project-6129502/@1200x600.jpg" alt="People exercising" loading="lazy">
+<img src="/assets/pexels/pexels-rdne-stock-project-6129502/@1200x600.jpg" alt="Doctors, nurses, and medical workers" loading="lazy">
 
 <h1>Age-related Macular Degeneration</h1>
 
@@ -8,7 +8,7 @@
 
 </span>
 
-<h2>Amyotrophic lateral sclerosis in more depth</h2>
+<h2>Age-related macular degeneration in more depth</h2>
 
 <span data-chatgpt-prompt="Explain age-related macular degeneration in depth">
 
