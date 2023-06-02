@@ -86,6 +86,6 @@
 
     </ul>
 
-    <p>Remember, it's important to be open and honest with your doctor about any concerns or questions you may have about AMD. Your doctor can provide you with the information and support you need to manage the disease and maintain the best quality of life possible.</p>
+    <p>Be open and honest with your doctor about any concerns or questions you may have about AMD. Your doctor can provide you with the information and support you need to manage the disease and maintain the best quality of life possible.</p>
 
 </span>
