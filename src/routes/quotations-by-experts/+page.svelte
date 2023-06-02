@@ -95,3 +95,13 @@ Thank you so much for helping me and this project. If you want to know more abou
 </blockquote>
 - <cite>Alexander Holloway, The Joyful Life Guide</cite>
 
+
+<h2>Bookshop Founder</h2>
+    
+<blockquote>
+    <p>&ldquo;I am a librarian with a decade of experience serving the community. I have witnessed firsthand the transformative power of stories, and now, as a bookshop owner, I am committed to creating an environment where stories come alive, fostering connections among people of all ages. Our efforts at The Bookshop By The Sea have been recognized with the esteemed Retail of the Year Award and the Sustainability Award for Community Engagement. These accolades validate our commitment to strengthening our community through literature and sustainability initiatives.</p>
+    <p>&ldquo;One of our core beliefs is that stories have the ability to bridge gaps and unite individuals across generations. In our community, we have noticed the need to strengthen connections between elderly people and children, recognizing the immense value this intergenerational exchange brings. We are eager to launch a new pilot program that will harness the power of stories to connect these two groups in a truly meaningful way.</p>
+    <p>&ldquo;Our vision is to create a series of captivating video-recorded storytime sessions, featuring enthusiastic storytellers engaging both elderly individuals and children. We want to provide an easy-to-use app that showcases these recorded sessions, specifically designed to address the needs of individuals living with dementia. By combining technology and storytelling, we aim to create a platform that fosters connection, encourages reminiscence, and spreads joy within our community.</p>
+    <p>&ldquo;Joel, given your exceptional expertise in app development and your dedication to creating impactful community projects, we believe you are the perfect partner for this venture. Your passion for connecting people aligns perfectly with our mission, and your skills in app development make you the ideal candidate to help us bring this vision to life.&rdquo;</p>
+</blockquote>
+- <cite>Freya Blyth, Founder, The Bookshop By The Sea</cite>
