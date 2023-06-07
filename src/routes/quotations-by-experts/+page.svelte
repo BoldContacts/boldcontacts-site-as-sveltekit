@@ -78,6 +78,15 @@ Thank you so much for helping me and this project. If you want to know more abou
 - <cite>Hedydd Elias, Mental Health Speaker, National Eisteddfod of Wales</cite>
 
 
+<h2>Lifelong Learning CEO</h2>
+
+<blockquote>
+    <p>&ldquo;We at NeverTechLate (NTL) are firmly rooted in the desire to provide inclusive lifelong learning opportunities for older generations and the socially isolated to learn the digital skills needed to get online and use the enriching tools that the digital world has to offer. Using educational programs designed by University educators, we provide innovative solutions to ensure no one is left behind in an ever technologically advancing world.</p>
+    <p>&ldquo;Joel at BoldContacts has been one of our key network partners. The BoldContact app is a fantastically innovative example of a new wave of digital technologies designed to make the digital environment more inclusive and welcoming.Joel's work to tackle social isolation particularly for those with life changing illnesses will make a phenomenal difference to those who need it most. We at NeverTechLate very much look forward to continuing working with BoldContacts as we proceed towards a mutual mission of continuing to shape an inclusive digital landscape.&rdquo;</p>
+</blockquote>
+- <cite>Florence Mauchant, CEO, NeverTechLate</cite>
+
+
 <h2>Creative Producer</h2>
 
 <blockquote>
