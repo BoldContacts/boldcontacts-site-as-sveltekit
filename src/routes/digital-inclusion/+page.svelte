@@ -56,7 +56,7 @@
 
     <li>These impairments make it harder, or impossible, for some people to use their phones and tablets to view their contacts and connect with them.</li>
 
-    <li>People with severe impairments lose their ability to use their default contacts app, because the fonts were too small to read, the buttons were too small to tap, and the user interface was too confusing to understand.</li>
+    <li>People with severe impairments lose their ability to use their default contacts app, because the fonts are too small to read, the buttons are too small to tap, and the user interface is too confusing to understand.</li>
 
 </ul>
 
