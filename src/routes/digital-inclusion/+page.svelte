@@ -56,11 +56,11 @@
 
     <li>These impairments make it harder, or impossible, for some people to use their phones and tablets to view their contacts and connect with them.</li>
 
-    <li>For example, people experiencing impairments lost the ability to use their typical iPhone contacts app because the fonts were too small to read, or the buttons were too small to tap, or the user interface had too much information to be usable.</li>
+    <li>People with severe impairments lose their ability to use their default contacts app, because the fonts were too small to read, the buttons were too small to tap, and the user interface was too confusing to understand.</li>
 
 </ul>
 
-<p>We developed BoldContacts with big bold fonts, big bold buttons, and a greatly-simplified user interface.</p>
+<p>We developed BoldContacts with big bold fonts, big bold buttons, and a simple user interface.</p>
 
 <ul>
 
