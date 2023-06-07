@@ -46,7 +46,7 @@
 </ol>
 
 
-<h2>How BoldContacts helps digital inclusion</h2>
+<h2>Digital inclusion with BoldContacts</h2>
 
 <p>BoldContacts makes it easier for people to use their own iPhones and iPads to connect with friends, family, and carers, via phone calls and video calls.</p>
 
@@ -58,13 +58,15 @@
 
     <li>For example, people experiencing impairments lost the ability to use their typical iPhone contacts app because the fonts were too small to read, or the buttons were too small to tap, or the user interface had too much information to be usable.</li>
 
+</ul>
+
 <p>We developed BoldContacts with big bold fonts, big bold buttons, and a greatly-simplified user interface.</p>
 
 <ul>
 
     <li>The big bold simple interface helps enable more people to use their iPhones and iPads, and make more connections with people.</li>
         
-    <li>This kind of digital inclusion is especially good because it can also help with caregiving, telemedicine, exercise, and community.</p>
+    <li>This kind of digital inclusion is especially good because it can also help with caregiving, telemedicine, exercise, and community.</li>
 
 </ul>
 
