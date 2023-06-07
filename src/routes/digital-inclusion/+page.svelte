@@ -23,7 +23,7 @@
 <p>By promoting digital inclusion, societies can unlock the potential of technology to drive economic growth, enhance educational opportunities, improve access to healthcare and government services, and foster social inclusion. It recognizes that digital technologies have become essential tools for communication, information sharing, learning, and participation in modern society, and aims to ensure that no one is left behind in the digital era.</p>
 
 
-<h2>Digital Inclusion Charter</h2>
+<h2>Digital inclusion charter</h2>
 
 <p>Many groups and organizations are adopting digital inclusion charters, which help guide the goals and steps that are involved in digital inclusion.</p>
 
@@ -44,3 +44,15 @@
     <li>We look to build local partnerships amongst organisations which want to share ideas and co-ordinate activities with others in their area.</li>
 
 </ol>
+
+
+<h2>How BoldContacts helps digital inclusion</h2>
+
+<p>BoldContacts core purpose is making it easier for people to use their own iPhones and iPads to connect with friends, family, and carers, via phone calls and video calls.</p>
+
+<p>We created BoldContacts because we saw that the existing digital solutions didn't work well for people who have vision/cognitive/motor impairments, such as eyesight issues, dementia issues, or tremor issues. These impairments make it harder, or impossible, for some people to use their phones and tablets to view their contacts and connect with them. For example, people lost the ability to use their typical iPhone contacts app because the fonts were too small to read, or the buttons were too small to tap, or the user interface had too much information to be usable.</p>
+
+<p>We developed BoldContacts with big bold fonts, big bold buttons, and a greatly-simplified user interface. This enables more people to use their iPhones and iPads, and make more connections with people. This kind of digital inclusion is especially good because it can also help with caregiving, telemedicine, exercise, and community.</p>
+
+<p>We welcome your ideas and insights about digital inclusion: <a href="mailto:digital.inclusion@boldcontacts.org">digital.inclusion@boldcontacts.org</a></p>
+
