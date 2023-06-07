@@ -48,7 +48,7 @@
 
 <h2>How BoldContacts helps digital inclusion</h2>
 
-<p>BoldContacts core purpose is making it easier for people to use their own iPhones and iPads to connect with friends, family, and carers, via phone calls and video calls.</p>
+<p>BoldContacts makes it easier for people to use their own iPhones and iPads to connect with friends, family, and carers, via phone calls and video calls.</p>
 
 <p>We created BoldContacts because we saw that the existing digital solutions didn't work well for people who have vision/cognitive/motor impairments, such as eyesight issues, dementia issues, or tremor issues.</p>
 
