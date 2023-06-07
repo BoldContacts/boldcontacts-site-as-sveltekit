@@ -70,5 +70,5 @@
 
 </ul>
 
-<p>We welcome your ideas about this: <a href="mailto:digital.inclusion@boldcontacts.org">digital.inclusion@boldcontacts.org</a></p>
+<p>We welcome your ideas about this:<br><a href="mailto:digital.inclusion@boldcontacts.org">digital.inclusion@boldcontacts.org</a></p>
 
