@@ -1,4 +1,4 @@
-<img src="/assets/pexels/pexels-kampus-production-7551617/@1200x600.jpg" alt="Happy family uses a tablet computer">
+<img src="/assets/pexels/pexels-andrea-piacquadio-3791664/@1200x600.jpg" alt="People using BoldContacts on a phone" loading="lazy">
 
 <h1>Digital inclusion</h1>
 
