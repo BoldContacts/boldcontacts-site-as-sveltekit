@@ -6,6 +6,8 @@
 
 <p><a href="/uk-global-talent-visa">UK Global Talent Visa - please help if you can</a></p>
 
+<p><a href="/digital-inclusion">Digital inclusion</a></p>
+
 <p><a href="/skill-space">Skill space is a work in progress</a></p>
 
 <p><a href="/ui-ux-design-journey">UI/UX design journey</a></p>
