@@ -56,7 +56,7 @@
 </ol>
 
 
-<h2>Music &amp; Movies</h2>
+<h2>For Music &amp; Movies</h2>
 
 <p>The app can connect to music and movies, such as via YouTube, Spotify, Apple Music, Amazon Prime Video, and Google TV.</p>
 
@@ -65,7 +65,7 @@
 <p>Potential music connections include favorite songs, albums, playlists, genres, and streaming radio stations. Potential movie connections include blockbuster movies on Amazon Prime Video, family home movies that are uploaded to YouTube, and streaming TV channels.</p>
 
 
-<h2>Health &amp; Wellness</h2>
+<h2>For Health &amp; Wellness</h2>
 
 <p>The app can connect to health and wellness videos, such as for appropriate exercise, occupational therapy, and medical recovery.</p>
 
@@ -74,23 +74,26 @@
 <p>Potential health and wellness connections include senior-oriented exercises, impairment-aware activities, chair yoga, tai chi, balance training, range-of-motion stretching, and the like.</p>
 
 
-<h2>Medical &amp; Clinical</h2>
+<h2>For Medical &amp; Clinical</h2>
 
 <p>The app can connect to medical providers and clinical researchers by using telemedicine conferencing, such as via Zoom, Teams, and Jitsi.</p>
 
-<img src="/assets/pexels/pexels-rdne-stock-project-6129502/@1200x600.jpg" alt="Doctors, nurses, and medical workers" loading="lazy">
+<p><a href="/medical-and-clinical"><img src="/assets/pexels/pexels-rdne-stock-project-6129502/@1200x600.jpg" alt="Doctors, nurses, and medical workers" loading="lazy"></a></p>
 
 <p>Potential medical connections include doctors, nurses, and outpatient follow up providers, all of whom may be able to use telemedicine to help support in-person medical care. Some ideas for clinical researchers include laboratory primary investigators who want patients to check in about updates to studies.</p>
 
+<p><a href="/medical-and-clinical">More about medical &amp; clinical</a></p>
 
-<h2>Localization and Internationalization</h2>
 
-<p>The app provides localization and internationalization for many worldwide languages. We welcome help improving the phrasings and translations, and adding more languages and examples.</p>
+<h2>For Worldwide Languages</h2>
 
-<img src="/assets/pexels/pexels-nataliya-vaitkevich-7235805/@1200x600.jpg" alt="World globe held in hands" loading="lazy">
+<p>The app provides many worldwide languages. We welcome help improving the phrasings and translations, and adding more languages and examples.</p>
+
+<p><a href="/worldwide-languages"><img src="/assets/pexels/pexels-nataliya-vaitkevich-7235805/@1200x600.jpg" alt="World globe held in hands" loading="lazy"></a></p>
 
 <p>The app includes Afrikaans, Amharic, Arabic, Armenian, Assamese, Azerbaijani, Bangla, Basque, Belarusian, Bosnian, Bulgarian, Catalan, Chinese, Corsican, Croatian, Danish, Dutch, English, Esperanto, Finnish, French, Galician, German, Greek, Gujarati, Hawaiian, Hebrew, Hindi, Hmong, Icelandic, Igbo, Indonesian, Irish, Italian, Japanese, Javanese, Kannada, Khmer, Korean, Lao, Latin, Lingala, Lithuanian, Malay, Maori, Marathi, Meiteilon, Nepali, Norwegian, Persian, Polish, Portuguese, Punjabi, Quechua, Russian, Samoan, Sanskrit, Scots Gaelic, Shona, Slovenian, Swahili, Swedish, Tamil, Telegu, Thai, Turkish, Turkmen, Ukrainian, Urdu, Uyghur, Uzbek, Vietnamese, Welsh, Xhosa, Yiddish, Yoruba, Zulu.</p>
 
+<p><a href="/worldwide-languages">More about worldwide languages</a></p>
 
 
 <h2>Goals</h2>
