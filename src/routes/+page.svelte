@@ -4,11 +4,9 @@
 
 <p>BoldContacts™ is a mobile app to help you browse your contacts and connect with them. BoldContacts is especially good for people who experience vision disabilities, or cognitive disabilities, or motor disabilities.</p>
 
-<p>The app displays each contact with a big photo, big font, and big buttons.</p>
-
 <p><img src="/assets/pexels/pexels-andrea-piacquadio-3791664/@1200x600.jpg" alt="People using BoldContacts on a phone" loading="lazy"></p>
 
-<p>A phone button means "contact this person now". This button connects you by using your choice of video, or phone, or email, or message, or custom URL. A caregiver can customize this by using the Apple iOS Contacts app. Arrow buttons mean "show the previous contact" and "show the next contact".</p>
+<p>The app displays each contact with a big photo, big font, and big buttons. The phone button means "contact this person now". This button connects you by using your choice of video, or phone, or email, or message, or custom URL. A caregiver can customize this by using the Apple iOS Contacts app. Arrow buttons mean "show the previous contact" and "show the next contact".</p>
 
 <div class="grid grid-cols-2 gap-4 mt-8 text-xl">
 
