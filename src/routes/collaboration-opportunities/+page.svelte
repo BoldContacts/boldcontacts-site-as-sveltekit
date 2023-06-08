@@ -13,9 +13,9 @@
 
 <ul>
 
-    <li>Health &amp; wellness: potential connections include senior-oriented exercises, impairment-aware activities, chair yoga, tai chi, balance training, range-of-motion stretching, and the like.</li>
+    <li>Health: potential connections include senior-oriented exercises, impairment-aware activities, chair yoga, tai chi, balance training, range-of-motion stretching, and the like.</li>
 
-    <li>Music &amp; movies: potential connections include favorite songs, albums, playlists, genres, and streaming radio stations. Potential movie connections include blockbuster movies, family home movies, and streaming TV.</li>
+    <li>Entertainment: potential connections include favorite songs, albums, playlists, genres, and streaming radio stations. Potential movie connections include blockbuster movies, family home movies, and streaming TV.</li>
 
 </ul>
 

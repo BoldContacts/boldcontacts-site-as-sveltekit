@@ -1,6 +1,10 @@
-<img src="/assets/pexels/pexels-andrea-piacquadio-3791664/@1200x600.jpg" alt="People using BoldContacts on a phone" loading="lazy">
+<script>
+    import Courtesy from "$lib/Courtesy.svelte";
+</script>
 
-<h1>Digital inclusion</h1>
+<img src="/assets/pexels/pexels-anna-shvets-5231330/@1200x600.jpg" alt="Elderly person using an Apple iPad for FaceTime" loading="lazy">
+
+<h1>Digital Inclusion</h1>
 
 <p>Digital inclusion refers to the concept of ensuring that all individuals and communities have access to and can effectively use digital technologies, such as the internet and digital devices, to participate in the digital world. It aims to bridge the digital divide and provide equal opportunities for everyone to benefit from the advantages and opportunities offered by digital technologies.</p>
 
@@ -70,5 +74,4 @@
 
 </ul>
 
-<p>We welcome your ideas about this:<br><a href="mailto:digital.inclusion@boldcontacts.org">digital.inclusion@boldcontacts.org</a></p>
-
+<Courtesy />

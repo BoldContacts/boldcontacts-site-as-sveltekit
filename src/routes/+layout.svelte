@@ -1,5 +1,7 @@
-<script>import "../app.postcss";</script>
-  
+<script>
+    import "../app.postcss";
+</script>
+
 <div class="max-w-screen-sm m-auto">
     <header class="m-auto border-b border-black mb-8 py-4">
         <nav class="flex justify-between">

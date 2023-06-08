@@ -1,3 +1,7 @@
+<script>
+    import Courtesy from "$lib/Courtesy.svelte";
+</script>
+
 <img src="/assets/pexels/pexels-mikhail-nilov-7500699/@1200x600.jpg" alt="People exercising" loading="lazy">
 
 <h1>Health &amp; Wellness</h1>
@@ -7,7 +11,7 @@
 <p>For example, daily exercise and balance training are both proven to help elderly people increase mobility, muscle tone, steadiness, and longevity. These improvements cap help reduce the risk of future injuries, such as from ankle sprains, accidental falls, hip fractures, and spine compressions.</p> 
 
 
-<h2>How to link to a exercise video</h2>
+<h2>How to link</h2>
 
 <p>Many major video services have ways to link directly to an artist, or album, or song, or video, or playlist.</p>
 
@@ -49,3 +53,5 @@
 </ol>
 
 Then quit BoldContacts and relaunch it. This tells BoldContacts to refresh your contact list, including your new contact. As an aside, a future release of BoldContacts will add automatic refresh.
+
+<Courtesy />

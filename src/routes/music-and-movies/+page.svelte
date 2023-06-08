@@ -1,3 +1,7 @@
+<script>
+    import Courtesy from "$lib/Courtesy.svelte";
+</script>
+
 <img src="/assets/pexels/pexels-rdne-stock-project-7020687/@1200x600.jpg" alt="Person playing guitar with records and a record player" loading="lazy">
 
 <h1>Music &amp; Movies</h1>
@@ -7,7 +11,7 @@
 <img src="/assets/explainers/music-and-movies/@1600x830.png" alt="BoldContacts connects to music and movies" loading="lazy">
 
 
-<h2>How to link to music &amp; movies</h2>
+<h2>How to link</h2>
 
 <p>Many major services have ways to link directly to an artist, album, song, playlist, video, streaming radio station, or streaming video channel.</p>
 
@@ -101,3 +105,5 @@
     <li>A future release of BoldContacts will add automatic refresh.</li>
 
 </ol>
+
+<Courtesy />
