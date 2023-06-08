@@ -8,7 +8,7 @@
 
 <p>The app displays each contact with a big photo, big font, and big buttons. The phone button means "contact this person now". This button connects you by using your choice of video, or phone, or email, or message, or custom URL. A caregiver can customize this by using the Apple iOS Contacts app. Arrow buttons mean "show the previous contact" and "show the next contact".</p>
 
-<div class="grid grid-cols-2 gap-4 mt-8 text-xl">
+<div class="grid grid-cols-2 gap-4 mt-8">
 
     <div class="text-center">
         <a href="/friends-and-families"><img src="/assets/pexels/pexels-kampus-production-7551617/@1200x600.jpg" alt="Happy family uses a tablet computer"></a>
