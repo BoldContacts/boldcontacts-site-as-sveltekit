@@ -97,8 +97,6 @@
 
 <p>Potential medical connections include doctors, nurses, and outpatient follow up providers, all of whom may be able to use telemedicine to help support in-person medical care. Some ideas for clinical researchers include laboratory primary investigators who want patients to check in about updates to studies.</p>
 
-<p><a href="/medical-and-clinical">More about medical &amp; clinical</a></p>
-
 
 <h2>Worldwide Languages</h2>
 
