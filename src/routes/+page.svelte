@@ -8,43 +8,38 @@
 
 <p><img src="/assets/pexels/pexels-andrea-piacquadio-3791664/@1200x600.jpg" alt="People using BoldContacts on a phone" loading="lazy"></p>
 
-<p>A phone button means "contact this person now". This button connects you by using your choice of video, or phone, or email, or message, or custom URL. A caregiver can customize this by using the Apple iOS Contacts app.</p>
-    
-<p>A left-arrow button means "show the previous contact".</p>
-        
-<p>A right-arrow button means "show the next contact".</p>
+<p>A phone button means "contact this person now". This button connects you by using your choice of video, or phone, or email, or message, or custom URL. A caregiver can customize this by using the Apple iOS Contacts app. Arrow buttons mean "show the previous contact" and "show the next contact".</p>
 
+<div class="grid grid-cols-2 gap-4 mt-8 text-xl">
 
-<div class="grid grid-cols-2 gap-4">
-
-    <div class="border border-black text-center">
+    <div class="text-center">
         <a href="/friends-and-families"><img src="/assets/pexels/pexels-kampus-production-7551617/@1200x600.jpg" alt="Happy family uses a tablet computer"></a>
-        <p><b><a class="no-underline" href="/friends-and-families">For Friends &amp; Families</a></b></p>
+        <p><a class="no-underline" href="/friends-and-families">For Friends &amp; Families</a></p>
     </div>
     
-    <div class="border border-black text-center">
+    <div class="text-center">
         <a href="/carers-and-caregivers"><img src="/assets/pexels/pexels-marcus-aurelius-6787960/@1200x600.jpg" alt="Two people using an iPad together" loading="lazy"></a>
-        <p><b><a class="no-underline" href="/carers-and-caregivers">For Carers &amp; Caregivers</a></b></p>
+        <p><a class="no-underline" href="/carers-and-caregivers">For Carers &amp; Caregivers</a></p>
     </div>
 
-    <div class="border border-black text-center">
+    <div class="text-center">
         <a href="/music-and-movies"><img src="/assets/pexels/pexels-rdne-stock-project-7020687/@1200x600.jpg" alt="Person playing guitar with records and a record player" loading="lazy"></a>
-        <p><b><a class="no-underline" href="/music-and-movies">Music &amp; Movies</a></b></p>
+        <p><a class="no-underline" href="/music-and-movies">Music &amp; Movies</a></p>
     </div>
 
-    <div class="border border-black text-center">
+    <div class="text-center">
         <a href="/health-and-wellness"><img src="/assets/pexels/pexels-mikhail-nilov-7500699/@1200x600.jpg" alt="People exercising" loading="lazy"></a>
-        <p><b><a class="no-underline" href="/health-and-wellness">Health &amp; Wellness</a></b></p>
+        <p><a class="no-underline" href="/health-and-wellness">Health &amp; Wellness</a></p>
     </div>
 
-    <div class="border border-black text-center">
-        <a href="/digital-inclusion"><img src="/assets/pexels/pexels-anna-shvets-5231330/@1200x600.jpg" alt="Elderly person using an Apple iPad for FaceTime" loading="lazy"></a>
-        <p><b><a class="no-underline" href="/digital-inclusion">Digital Inclusion</a></b></p>
-    </div>
-
-    <div class="border border-black text-center">
+    <div class="text-center">
         <a href="/worldwide-freedom"><img src="/assets/pexels/pexels-nataliya-vaitkevich-7235805/@1200x600.jpg" alt="World globe held in hands" loading="lazy"></a>
-        <p><b><a class="no-underline" href="/worldwide-freedom">Worldwide Freedom</a></b></p>
+        <p><a class="no-underline" href="/worldwide-freedom">Worldwide Freedom Goals</a></p>
+    </div>
+
+    <div class="text-center">
+        <a href="/digital-inclusion"><img src="/assets/pexels/pexels-anna-shvets-5231330/@1200x600.jpg" alt="Elderly person using an Apple iPad for FaceTime" loading="lazy"></a>
+        <p><a class="no-underline" href="/digital-inclusion">Digital Inclusion Goals</a></p>
     </div>
 
 </div>
@@ -78,7 +73,7 @@
 </ol>
 
 
-<h2>For Music &amp; Movies</h2>
+<h2>Music &amp; Movies</h2>
 
 <p>The app can connect to music and movies, such as via YouTube, Spotify, Apple Music, Amazon Prime Video, and Google TV.</p>
 
@@ -87,7 +82,7 @@
 <p>Potential music connections include favorite songs, albums, playlists, genres, and streaming radio stations. Potential movie connections include blockbuster movies on Amazon Prime Video, family home movies that are uploaded to YouTube, and streaming TV channels.</p>
 
 
-<h2>For Health &amp; Wellness</h2>
+<h2>Health &amp; Wellness</h2>
 
 <p>The app can connect to health and wellness videos, such as for appropriate exercise, occupational therapy, and medical recovery.</p>
 
@@ -107,7 +102,7 @@
 <p><a href="/medical-and-clinical">More about medical &amp; clinical</a></p>
 
 
-<h2>For Worldwide Languages</h2>
+<h2>Worldwide Languages</h2>
 
 <p>The app provides many worldwide languages. We welcome help improving the phrasings and translations, and adding more languages and examples.</p>
 
