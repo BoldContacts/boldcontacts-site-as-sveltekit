@@ -20,6 +20,15 @@
 - <cite>Professor Charles Musselwhite, Professor of Psychology, Co-Director of the Centre for Ageing and Dementia Research, Aberystwyth University</cite>
 
 
+<h2>Digital Scholarship Head</h2>
+
+<blockquote>
+    <p>&ldquo;As an institution, we are always looking at ways to make our data and collections more available, Joel's app would allow us to open up new avenues of discovery particularly in areas such as reminiscence therapy where we do not have the connections and technical resources to facilitate the access.</p>
+    <p>&ldquo;Joel's app could help us to bring a variety of different content types from our collections to a new audience of less technical users who are unable to visit us in person and lack skills or knowledge to find the information within our online systems.&rdquo;</p>
+</blockquote>
+- <cite>Paul McCann, Head of Digital Scholarship and Research, The National Library of Wales.</cite>
+
+
 <h2>Hospital Sister</h2>
 
 <blockquote>
