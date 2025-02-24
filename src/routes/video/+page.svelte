@@ -1,3 +1,9 @@
+<script>
+    import Courtesy from "$lib/Courtesy.svelte";
+    import HowToCreate from "$lib/HowToCreate.svelte";
+    import HowToRefresh from "$lib/HowToRefresh.svelte";
+</script>
+
 <h1>BoldContacts Video</h1>
 
 <p>BoldContacts can connect to many popular video services, such as YouTube, Amazon Prime Video, and Google TV.</p>
@@ -35,4 +41,6 @@
 
 </ol>
 
-Then quit BoldContacts and relaunch it. This tells BoldContacts to refresh your contact list, including your new contact. As an aside, a future release of BoldContacts will add automatic refresh.
+<HowToCreate />
+<HowToRefresh />
+<Courtesy />

@@ -148,6 +148,21 @@
 <p>Are you a programmer? Would you like to help us with Swift and Kotlin?</p>
 
 
+<h2>Medical introductions</h2>
+
+<p><a href="/alzheimers-disease/">Alzheimer's disease</a></p>
+
+<p><a href="/age-related-macular-degeneration/">Age-related macular degeneration</a></p>
+
+<p><a href="/amyotrophic-lateral-sclerosis/">Amyotrophic lateral sclerosis</a></p>
+
+<p><a href="/frontotemporal-dementia/">Frontotemporal dementia</a></p>
+
+<p><a href="/multiple-sclerosis/">Multiple sclerosis</a></p>
+
+<p><a href="/muscular-dystrophy/">Muscular dystrophy</a></p>
+
+<p><a href="/parkinsons-disease/">Parkinson's disease</a></p>
 <h2>Organizations we want to reach</h2>
 
 <p><a href="https://www.aarp.org">AARP</a></p>
@@ -169,23 +184,6 @@
 <p><a href="https://www.parkinson.org">Parkinson's Foundation</a></p>
 
 <p><a href="https://www.michaeljfox.org">The Michael J. Fox Foundation - Parkinson's</a></p>
-
-
-<h2>Medical introductions</h2>
-
-<p><a href="/alzheimers-disease/">Alzheimer's disease</a></p>
-
-<p><a href="/age-related-macular-degeneration/">Age-related macular degeneration</a></p>
-
-<p><a href="/amyotrophic-lateral-sclerosis/">Amyotrophic lateral sclerosis</a></p>
-
-<p><a href="/frontotemporal-dementia/">Frontotemporal dementia</a></p>
-
-<p><a href="/multiple-sclerosis/">Multiple sclerosis</a></p>
-
-<p><a href="/muscular-dystrophy/">Muscular dystrophy</a></p>
-
-<p><a href="/parkinsons-disease/">Parkinson's disease</a></p>
 
 
 <!--

@@ -1,3 +1,7 @@
+<script>
+    import Courtesy from "$lib/Courtesy.svelte";
+</script>
+
 <p><a href="/worldwide-languages"><img src="/assets/pexels/pexels-nataliya-vaitkevich-7235805/@1200x600.jpg" alt="World globe held in hands" loading="lazy"></a></p>
 
 <h1>Collaboration opportunities</h1>
@@ -140,3 +144,5 @@
     <li>Anyone anywhere is able to create an project issue, such as a new feature request, or a technical question, or a bug report, or a coordinated security disclosure, all <a href="https://github.com/BoldContacts/boldcontacts-mobile-app-for-apple/issues">here</a>.</li>
         
 </ul>
+
+<Courtesy />

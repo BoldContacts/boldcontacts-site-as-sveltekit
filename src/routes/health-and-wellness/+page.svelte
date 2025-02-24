@@ -1,5 +1,7 @@
 <script>
     import Courtesy from "$lib/Courtesy.svelte";
+    import HowToCreate from "$lib/HowToCreate.svelte";
+    import HowToRefresh from "$lib/HowToRefresh.svelte";
 </script>
 
 <img src="/assets/pexels/pexels-mikhail-nilov-7500699/@1200x600.jpg" alt="People exercising" loading="lazy">
@@ -52,6 +54,6 @@
 
 </ol>
 
-Then quit BoldContacts and relaunch it. This tells BoldContacts to refresh your contact list, including your new contact. As an aside, a future release of BoldContacts will add automatic refresh.
-
+<HowToCreate />
+<HowToRefresh />
 <Courtesy />

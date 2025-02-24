@@ -1,3 +1,9 @@
+<script>
+    import Courtesy from "$lib/Courtesy.svelte";
+    import HowToCreate from "$lib/HowToCreate.svelte";
+    import HowToRefresh from "$lib/HowToRefresh.svelte";
+</script>
+
 <h1>MOCKUP - DRAFT - UNPUBLISHED</h1>
 
 <p><img src="/thebookshopbythesea/explainer.png" alt="BoldContacts & The Bookshop By The Sea" loading="lazy"></p>
@@ -22,4 +28,7 @@
 
 </ol>
 
-Then quit BoldContacts and relaunch it. This tells BoldContacts to refresh your contact list, including your new contact. As an aside, a future release of BoldContacts will add automatic refresh.
+
+<HowToCreate />
+<HowToRefresh />
+<Courtesy />
