@@ -1,5 +1,7 @@
 <script>
     import Courtesy from "$lib/Courtesy.svelte";
+    import HowToCreate from "$lib/HowToCreate.svelte";
+    import HowToRefresh from "$lib/HowToRefresh.svelte";
 </script>
 
 <img src="/assets/pexels/pexels-rdne-stock-project-7020687/@1200x600.jpg" alt="Person playing guitar with records and a record player" loading="lazy">
@@ -91,19 +93,6 @@
 
 </ol>
 
-
-<h2>How to refresh BoldContacts</h2>
-
-<p>When your contact is ready, then you refresh BoldContacts:</p>
-
-<ol>
-
-    <li>Quit BoldContacts, then relaunch it.</li>
-
-    <li>The relaunch makes BoldContacts refresh your contact list.</li>
-    
-    <li>A future release of BoldContacts will add automatic refresh.</li>
-
-</ol>
-
+<HowToCreate />
+<HowToRefresh />
 <Courtesy />
